@@ -1,0 +1,1260 @@
+pagePath,region,percentScrolled,eventName,newVsReturning,city,dateHour,crashFreeUsersRate,bounceRate,engagementRate,userEngagementDuration,scrolledUsers,totalUsers,sessions
+/,(not set),,first_visit,new,(not set),2023090405,1,1,0,0,0,2,2
+/,(not set),,first_visit,new,(not set),2023090412,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023090508,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023090720,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023090817,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023091512,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023092309,1,1,0,0,0,5,5
+/,(not set),,first_visit,new,(not set),2023092807,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023100317,1,1,0,0,0,2,2
+/,(not set),,first_visit,new,(not set),2023101508,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023102207,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023102911,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023110511,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023110523,1,0,1,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023111219,1,1,0,0,0,1,1
+/,(not set),,first_visit,new,(not set),2023112221,1,0,1,0,0,1,1
+/,(not set),,page_view,new,(not set),2023090405,1,1,0,0,0,2,2
+/,Texas,,page_view,new,San Antonio,2023090313,1,1,0,0,0,1,1
+/,(not set),,page_view,new,(not set),2023090508,1,1,0,0,0,1,1
+/,(not set),,page_view,new,(not set),2023090720,1,1,0,0,0,1,1
+/,Texas,90,scroll,new,San Antonio,2023090313,1,1,0,295,1,1,1
+/,(not set),,page_view,new,(not set),2023091512,1,1,0,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023090319,1,1,0,0,0,2,2
+/,(not set),,page_view,new,(not set),2023092807,1,1,0,0,0,1,1
+/,Iowa,,page_view,new,Altoona,2023090319,1,1,0,0,0,1,1
+/,(not set),,page_view,new,(not set),2023101508,1,1,0,0,0,1,1
+/,North Carolina,90,scroll,new,Forest City,2023090319,1,1,0,0,1,1,1
+/,(not set),,page_view,new,(not set),2023102911,1,1,0,0,0,1,1
+/,(not set),,page_view,new,(not set),2023110511,1,1,0,0,0,1,1
+/,Riyadh Province,,page_view,new,Riyadh,2023090319,1,1,0,0,0,1,1
+/,(not set),,page_view,new,(not set),2023111219,1,1,0,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023090319,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023090405,1,1,0,0,0,2,2
+/,(not set),,session_start,new,(not set),2023090412,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023090508,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023090720,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023090817,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023091512,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023092309,1,1,0,0,0,5,5
+/,(not set),,session_start,new,(not set),2023092807,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023100317,1,1,0,0,0,2,2
+/,(not set),,session_start,new,(not set),2023101508,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023102207,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023102911,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023110511,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023110523,1,0,1,0,0,1,1
+/,(not set),,session_start,new,(not set),2023111219,1,1,0,0,0,1,1
+/,(not set),,session_start,new,(not set),2023112221,1,0,1,0,0,1,1
+/,(not set),,user_engagement,new,(not set),2023110523,1,0,1,22,0,1,1
+/,(not set),,user_engagement,new,(not set),2023112221,1,0,1,3,0,1,1
+/,(not set),90,scroll,new,(not set),2023090405,1,1,0,0,1,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023090320,1,1,0,20,0,1,1
+/,(not set),90,scroll,new,(not set),2023112221,1,0,1,0,1,1,1
+/,Alabama,,first_visit,new,Axis,2023102120,1,1,0,0,0,1,1
+/,Alabama,,first_visit,new,Birmingham,2023092120,1,1,0,0,0,1,1
+/,Alabama,,page_view,new,Axis,2023102120,1,1,0,0,0,1,1
+/,Alabama,,page_view,new,Birmingham,2023092120,1,1,0,0,0,1,1
+/,Texas,90,scroll,returning,San Antonio,2023090321,1,1,0,16,1,1,1
+/,Alabama,,session_start,new,Axis,2023102120,1,1,0,0,0,1,1
+/,Alabama,,session_start,new,Birmingham,2023092120,1,1,0,0,0,1,1
+/,Alabama,,user_engagement,new,Brewton,2023091108,1,1,0,20,0,1,1
+/,Texas,,page_view,new,San Antonio,2023090410,1,1,0,0,0,1,1
+/,Arkansas,,first_visit,new,Little Rock,2023092006,1,0,1,0,0,1,1
+/,Arkansas,,page_view,new,Little Rock,2023092006,1,0,1,0,0,1,1
+/,Arkansas,,session_start,new,Little Rock,2023092006,1,0,1,0,0,1,1
+/,(not set),,page_view,new,(not set),2023090412,1,1,0,0,0,1,1
+/,California,,first_visit,new,(not set),2023090412,1,1,0,0,0,1,1
+/,California,,first_visit,new,(not set),2023091512,1,1,0,0,0,1,1
+/,California,,first_visit,new,Anaheim,2023092315,1,0,1,0,0,1,1
+/,California,,first_visit,new,Anaheim,2023092402,1,1,0,0,0,1,1
+/,California,,first_visit,new,Carlsbad,2023092022,1,0,1,0,0,1,1
+/,California,,first_visit,new,Compton,2023112219,1,0,1,0,0,1,1
+/,California,,first_visit,new,Fullerton,2023091721,1,1,0,0,0,1,1
+/,California,,first_visit,new,Los Angeles,2023092012,1,0,1,0,0,1,1
+/,California,,first_visit,new,Los Angeles,2023092207,1,0,1,0,0,1,1
+/,California,,first_visit,new,Los Angeles,2023092415,1,0,1,0,0,1,1
+/,California,,first_visit,new,Los Angeles,2023112318,1,0,1,0,0,1,1
+/,California,,first_visit,new,Murrieta,2023092121,1,0,1,0,0,1,1
+/,California,,first_visit,new,Oxnard,2023092207,1,1,0,0,0,1,1
+/,California,,first_visit,new,Pico Rivera,2023092413,1,0,1,0,0,1,1
+/,California,,first_visit,new,Pittsburg,2023092115,1,0,1,0,0,1,1
+/,California,,first_visit,new,Sacramento,2023112211,1,1,0,0,0,1,1
+/,California,,first_visit,new,San Francisco,2023092203,1,0,1,0,0,1,1
+/,California,,first_visit,new,San Francisco,2023092308,1,0,1,0,0,1,1
+/,California,,first_visit,new,Sanger,2023092119,1,1,0,0,0,1,1
+/,California,,first_visit,new,Santa Clara,2023091809,1,0,1,0,0,1,1
+/,California,,first_visit,new,Santa Rosa,2023092212,1,0,1,0,0,1,1
+/,California,,first_visit,new,Tahoe Vista,2023092023,1,0,1,0,0,1,1
+/,California,,first_visit,new,Tulare,2023092214,1,1,0,0,0,1,1
+/,California,,first_visit,new,Upland,2023092307,1,1,0,0,0,1,1
+/,California,,page_view,new,(not set),2023090412,1,1,0,0,0,1,1
+/,California,,page_view,new,(not set),2023091512,1,1,0,0,0,1,1
+/,California,,page_view,new,Anaheim,2023092315,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023090413,1,1,0,33,0,1,1
+/,California,,page_view,new,Carlsbad,2023092022,1,0,1,0,0,1,1
+/,California,,page_view,new,Compton,2023112219,1,0,1,0,0,1,1
+/,California,,page_view,new,Compton,2023112220,1,0,1,0,0,1,1
+/,California,,page_view,new,Fullerton,2023091721,1,1,0,0,0,1,1
+/,California,,page_view,new,Los Angeles,2023092012,1,0,1,0,0,1,1
+/,California,,page_view,new,Los Angeles,2023092207,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023090416,1,1,0,0,0,1,1
+/,California,,page_view,new,Los Angeles,2023112318,1,0,1,0,0,1,1
+/,California,,page_view,new,Murrieta,2023092121,1,0,1,0,0,1,1
+/store/tshirt,Texas,,user_engagement,returning,San Antonio,2023090420,1,1,0,42,0,1,1
+/,California,,page_view,new,Pico Rivera,2023092413,1,0,1,0,0,1,1
+/,California,,page_view,new,Pittsburg,2023092115,1,0,1,0,0,1,1
+/,California,,page_view,new,Sacramento,2023112211,1,1,0,0,0,1,1
+/store/tshirt,Texas,,view_item,returning,San Antonio,2023090420,1,1,0,0,0,1,1
+/,California,,page_view,new,San Francisco,2023092308,1,0,1,0,0,1,1
+/store/tshirt,Texas,90,scroll,returning,San Antonio,2023090420,1,1,0,20,1,1,1
+/,California,,page_view,new,Santa Clara,2023091809,1,0,1,0,0,1,1
+/,California,,page_view,new,Santa Rosa,2023092212,1,0,1,0,0,1,1
+/,California,,page_view,new,Tahoe Vista,2023092023,1,0,1,0,0,1,1
+/,New Jersey,,page_view,new,Clifton,2023090508,1,1,0,0,0,1,1
+/,California,,page_view,new,Upland,2023092307,1,1,0,0,0,1,1
+/,California,,session_start,new,(not set),2023090412,1,1,0,0,0,1,1
+/,California,,session_start,new,(not set),2023091512,1,1,0,0,0,1,1
+/,California,,session_start,new,Anaheim,2023092315,1,0,1,0,0,1,1
+/,California,,session_start,new,Anaheim,2023092402,1,1,0,0,0,1,1
+/,California,,session_start,new,Carlsbad,2023092022,1,0,1,0,0,1,1
+/,California,,session_start,new,Compton,2023112219,1,0,1,0,0,1,1
+/,California,,session_start,new,Fullerton,2023091721,1,1,0,0,0,1,1
+/,California,,session_start,new,Los Angeles,2023092012,1,0,1,0,0,1,1
+/,California,,session_start,new,Los Angeles,2023092207,1,0,1,0,0,1,1
+/,California,,session_start,new,Los Angeles,2023092415,1,0,1,0,0,1,1
+/,California,,session_start,new,Los Angeles,2023112318,1,0,1,0,0,1,1
+/,California,,session_start,new,Murrieta,2023092121,1,0,1,0,0,1,1
+/,California,,session_start,new,Oxnard,2023092207,1,1,0,0,0,1,1
+/,California,,session_start,new,Pico Rivera,2023092413,1,0,1,0,0,1,1
+/,California,,session_start,new,Pittsburg,2023092115,1,0,1,0,0,1,1
+/,California,,session_start,new,Sacramento,2023112211,1,1,0,0,0,1,1
+/,California,,session_start,new,San Francisco,2023092203,1,0,1,0,0,1,1
+/,California,,session_start,new,San Francisco,2023092308,1,0,1,0,0,1,1
+/,California,,session_start,new,Sanger,2023092119,1,1,0,0,0,1,1
+/,California,,session_start,new,Santa Clara,2023091809,1,0,1,0,0,1,1
+/,California,,session_start,new,Santa Rosa,2023092212,1,0,1,0,0,1,1
+/,California,,session_start,new,Tahoe Vista,2023092023,1,0,1,0,0,1,1
+/,California,,session_start,new,Tulare,2023092214,1,1,0,0,0,1,1
+/,California,,session_start,new,Upland,2023092307,1,1,0,0,0,1,1
+/,California,,user_engagement,new,Los Angeles,2023092207,1,0,1,1,0,1,1
+/,California,,user_engagement,new,Pico Rivera,2023092413,1,0,1,2,0,1,1
+/,California,,user_engagement,new,Pittsburg,2023092115,1,0,1,1,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023090618,1,1,0,0,0,1,1
+/,California,,user_engagement,new,Santa Clara,2023091809,1,0,1,2,0,1,1
+/,California,90,scroll,new,Anaheim,2023092315,1,0,1,0,1,1,1
+/,California,90,scroll,new,Anaheim,2023092402,1,1,0,0,1,1,1
+/,California,90,scroll,new,Carlsbad,2023092022,1,0,1,0,1,1,1
+/,California,90,scroll,new,Compton,2023112220,1,0,1,0,1,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023090618,1,1,0,1,0,1,1
+/,California,90,scroll,new,Los Angeles,2023092207,1,0,1,0,1,1,1
+/,California,90,scroll,new,Los Angeles,2023092415,1,0,1,0,1,1,1
+/collections/all,Texas,,page_view,returning,San Antonio,2023090618,1,1,0,0,0,1,1
+/,California,90,scroll,new,Murrieta,2023092121,1,0,1,0,1,1,1
+/,California,90,scroll,new,Pico Rivera,2023092413,1,0,1,0,1,1,1
+/,California,90,scroll,new,Sacramento,2023112211,1,1,0,0,1,1,1
+/store/stickers,Texas,,page_view,returning,San Antonio,2023090618,1,1,0,0,0,1,1
+/,California,90,scroll,new,Santa Rosa,2023092212,1,0,1,0,1,1,1
+/,California,90,scroll,new,Tahoe Vista,2023092023,1,0,1,0,1,1,1
+/store/stickers,Texas,90,scroll,returning,San Antonio,2023090618,1,1,0,0,1,1,1
+/,Chihuahua,,first_visit,new,Ciudad Juarez,2023112306,1,1,0,0,0,1,1
+/,Chihuahua,,page_view,new,Ciudad Juarez,2023112306,1,1,0,0,0,1,1
+/,Chihuahua,,session_start,new,Ciudad Juarez,2023112306,1,1,0,0,0,1,1
+/,Chihuahua,90,scroll,new,Ciudad Juarez,2023112306,1,1,0,0,1,1,1
+/,Colorado,,first_visit,new,Aurora,2023091920,1,0,1,0,0,1,1
+/,Colorado,,first_visit,new,Castle Rock,2023091807,1,0,1,0,0,1,1
+/,Colorado,,page_view,new,Aurora,2023091920,1,0,1,0,0,1,1
+/,Colorado,,page_view,new,Castle Rock,2023091807,1,0,1,0,0,1,1
+/,Colorado,,session_start,new,Aurora,2023091920,1,0,1,0,0,1,1
+/,Colorado,,session_start,new,Castle Rock,2023091807,1,0,1,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023090623,1,1,0,0,0,1,1
+/,County Dublin,,first_visit,new,Dublin,2023090318,1,1,0,0,0,1,1
+/,County Dublin,,first_visit,new,Dublin,2023090319,1,1,0,0,0,2,2
+/,County Dublin,,first_visit,new,Dublin,2023090516,1,1,0,0,0,1,1
+/,County Dublin,,first_visit,new,Dublin,2023090623,1,1,0,0,0,1,1
+/,County Dublin,,first_visit,new,Dublin,2023090812,1,1,0,0,0,1,1
+/,County Dublin,,first_visit,new,Dublin,2023102222,1,1,0,0,0,1,1
+/,County Dublin,,first_visit,new,Dublin,2023110621,1,1,0,0,0,1,1
+/,County Dublin,,first_visit,new,Dublin,2023112219,1,1,0,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023090318,1,1,0,0,0,1,1
+/,North Carolina,,page_view,new,Forest City,2023090717,1,1,0,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023090516,1,1,0,0,0,1,1
+/,(not set),,page_view,new,(not set),2023090817,1,1,0,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023090812,1,1,0,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023102222,1,1,0,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023110621,1,1,0,0,0,1,1
+/,County Dublin,,page_view,new,Dublin,2023112219,1,1,0,0,0,1,1
+/,County Dublin,,session_start,new,Dublin,2023090318,1,1,0,0,0,1,1
+/,County Dublin,,session_start,new,Dublin,2023090319,1,1,0,0,0,2,2
+/,County Dublin,,session_start,new,Dublin,2023090516,1,1,0,0,0,1,1
+/,County Dublin,,session_start,new,Dublin,2023090623,1,1,0,0,0,1,1
+/,County Dublin,,session_start,new,Dublin,2023090812,1,1,0,0,0,1,1
+/,County Dublin,,session_start,new,Dublin,2023102222,1,1,0,0,0,1,1
+/,County Dublin,,session_start,new,Dublin,2023110621,1,1,0,0,0,1,1
+/,County Dublin,,session_start,new,Dublin,2023112219,1,1,0,0,0,1,1
+/,County Dublin,90,scroll,new,Dublin,2023090318,1,1,0,0,1,1,1
+/,County Dublin,90,scroll,new,Dublin,2023090319,1,1,0,0,2,2,2
+/,County Dublin,90,scroll,new,Dublin,2023090516,1,1,0,0,1,1,1
+/,County Dublin,90,scroll,new,Dublin,2023090623,1,1,0,0,1,1,1
+/,County Dublin,90,scroll,new,Dublin,2023090812,1,1,0,0,1,1,1
+/,Delhi,,first_visit,new,Delhi,2023100603,1,0,1,0,0,1,1
+/collections/all,Texas,,user_engagement,(not set),San Antonio,2023090821,1,1,0,0,0,1,1
+/,Delhi,,session_start,new,Delhi,2023100603,1,0,1,0,0,1,1
+/,Delhi,,user_engagement,new,Delhi,2023100603,1,0,1,8,0,1,1
+/,Florida,,first_visit,new,Cutler Bay,2023092218,1,0,1,0,0,1,1
+/,Florida,,first_visit,new,Ormond Beach,2023091805,1,1,0,0,0,1,1
+/,Florida,,first_visit,new,Ruskin,2023092005,1,0,1,0,0,1,1
+/,Florida,,first_visit,new,St. Cloud,2023092415,1,0,1,0,0,1,1
+/,Florida,,page_view,new,Cutler Bay,2023092218,1,0,1,0,0,1,1
+/,Florida,,page_view,new,Ormond Beach,2023091805,1,1,0,0,0,1,1
+/collections/all,Telangana,,page_view,new,Hyderabad,2023091008,1,1,0,0,0,1,1
+/,Florida,,page_view,new,St. Cloud,2023092415,1,0,1,0,0,1,1
+/,Florida,,session_start,new,Cutler Bay,2023092218,1,0,1,0,0,1,1
+/,Florida,,session_start,new,Ormond Beach,2023091805,1,1,0,0,0,1,1
+/,Florida,,session_start,new,Ruskin,2023092005,1,0,1,0,0,1,1
+/,Florida,,session_start,new,St. Cloud,2023092415,1,0,1,0,0,1,1
+/,Florida,,user_engagement,new,Cutler Bay,2023092218,1,0,1,1,0,1,1
+/,Florida,90,scroll,new,Cutler Bay,2023092218,1,0,1,0,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023091021,1,1,0,8,1,1,1
+/,Georgia,,first_visit,new,Atlanta,2023092003,1,0,1,0,0,1,1
+/,Georgia,,first_visit,new,Atlanta,2023092117,1,0,1,0,0,1,1
+/,Georgia,,first_visit,new,Atlanta,2023112316,1,0,1,0,0,1,1
+/,Georgia,,first_visit,new,LaGrange,2023112323,1,0,1,0,0,1,1
+/,Georgia,,page_view,new,Atlanta,2023092003,1,0,1,0,0,1,1
+/,Georgia,,page_view,new,Atlanta,2023092117,1,0,1,0,0,1,1
+/,Georgia,,page_view,new,Atlanta,2023112316,1,0,1,0,0,1,1
+/,Georgia,,page_view,new,LaGrange,2023112323,1,0,1,0,0,1,1
+/,Georgia,,session_start,new,Atlanta,2023092003,1,0,1,0,0,1,1
+/,Georgia,,session_start,new,Atlanta,2023092117,1,0,1,0,0,1,1
+/,Georgia,,session_start,new,Atlanta,2023112316,1,0,1,0,0,1,1
+/,Georgia,,session_start,new,LaGrange,2023112323,1,0,1,0,0,1,1
+/collections/all,Texas,,page_view,returning,San Antonio,2023091021,1,1,0,0,0,1,1
+/,Alabama,,page_view,new,Brewton,2023091108,1,1,0,0,0,1,1
+/,Alabama,90,scroll,new,Brewton,2023091108,1,1,0,2,1,1,1
+/,Georgia,90,scroll,new,Atlanta,2023092117,1,0,1,0,1,1,1
+/,Georgia,90,scroll,new,Atlanta,2023112316,1,0,1,0,1,1,1
+/,Texas,,page_view,new,Eastland,2023091108,1,1,0,0,0,1,1
+/,Gyeonggi-do,,first_visit,new,Seongnam-si,2023090400,1,1,0,0,0,1,1
+/,Gyeonggi-do,,page_view,new,Seongnam-si,2023090400,1,1,0,0,0,1,1
+/,Gyeonggi-do,,session_start,new,Seongnam-si,2023090400,1,1,0,0,0,1,1
+/,Gyeonggi-do,90,scroll,new,Seongnam-si,2023090400,1,1,0,0,1,1,1
+/,Hawaii,,first_visit,new,Honolulu,2023092323,1,0,1,0,0,1,1
+/,Texas,,user_engagement,new,Eastland,2023091108,1,1,0,9,0,1,1
+/,Hawaii,,session_start,new,Honolulu,2023092323,1,0,1,0,0,1,1
+/,Hawaii,,user_engagement,new,Honolulu,2023092323,1,0,1,6,0,1,1
+/,Illinois,,first_visit,new,Chicago,2023092303,1,0,1,0,0,1,1
+/,Illinois,,first_visit,new,Sparta,2023092919,1,0,1,0,0,1,1
+/,Illinois,,page_view,new,Chicago,2023092303,1,0,1,0,0,1,1
+/,Texas,90,scroll,new,McCamey,2023091108,1,1,0,15,1,1,1
+/,Illinois,,session_start,new,Chicago,2023092303,1,0,1,0,0,1,1
+/,Illinois,,session_start,new,Sparta,2023092919,1,0,1,0,0,1,1
+/,Illinois,,user_engagement,new,Chicago,2023092303,1,0,1,1,0,1,1
+/,Illinois,,user_engagement,new,Sparta,2023092919,1,0,1,5,0,1,1
+/collections/all,Alabama,90,scroll,new,Brewton,2023091108,1,1,0,2,1,1,1
+/,Illinois,90,scroll,new,Sparta,2023092919,1,0,1,4,1,1,1
+/,Indiana,,first_visit,new,Hammond,2023112308,1,1,0,0,0,1,1
+/,Indiana,,first_visit,new,Noblesville,2023092417,1,0,1,0,0,1,1
+/,Indiana,,page_view,new,Hammond,2023112308,1,1,0,0,0,1,1
+/pages/contact,Texas,,page_view,new,Eastland,2023091108,1,1,0,0,0,1,1
+/,Indiana,,session_start,new,Hammond,2023112308,1,1,0,0,0,1,1
+/,Indiana,,session_start,new,Noblesville,2023092417,1,0,1,0,0,1,1
+/,Indiana,90,scroll,new,Hammond,2023112308,1,1,0,0,1,1,1
+/,Indiana,90,scroll,new,Noblesville,2023092417,1,0,1,0,1,1,1
+/,Iowa,,first_visit,new,Altoona,2023090319,1,1,0,0,0,1,1
+/,Iowa,,first_visit,new,Altoona,2023090808,1,1,0,0,0,1,1
+/,Iowa,,first_visit,new,Corydon,2023091919,1,1,0,0,0,1,1
+/collections/all,Texas,,page_view,new,Corpus Christi,2023091111,1,1,0,0,0,1,1
+/,Iowa,,page_view,new,Altoona,2023090808,1,1,0,0,0,1,1
+/,Iowa,,page_view,new,Corydon,2023091919,1,1,0,0,0,1,1
+/,Iowa,,session_start,new,Altoona,2023090319,1,1,0,0,0,1,1
+/,Iowa,,session_start,new,Altoona,2023090808,1,1,0,0,0,1,1
+/,Iowa,,session_start,new,Corydon,2023091919,1,1,0,0,0,1,1
+/,Iowa,90,scroll,new,Altoona,2023090808,1,1,0,0,1,1,1
+/,Kansas,,first_visit,new,Kansas City,2023092216,1,0,1,0,0,1,1
+/,Kansas,,page_view,new,Kansas City,2023092216,1,0,1,0,0,1,1
+/,Kansas,,session_start,new,Kansas City,2023092216,1,0,1,0,0,1,1
+/pages/contact,Texas,,user_engagement,new,Corpus Christi,2023091111,1,1,0,16,0,1,1
+/,Louisiana,,first_visit,new,Denham Springs,2023092217,1,1,0,0,0,1,1
+/,Louisiana,,first_visit,new,Ponchatoula,2023112217,1,0,1,0,0,1,1
+/,Louisiana,,page_view,new,Denham Springs,2023092217,1,1,0,0,0,1,1
+/,Louisiana,,page_view,new,Ponchatoula,2023112217,1,0,1,0,0,1,1
+/,Louisiana,,session_start,new,Denham Springs,2023092217,1,1,0,0,0,1,1
+/,Louisiana,,session_start,new,Ponchatoula,2023112217,1,0,1,0,0,1,1
+/,Louisiana,90,scroll,new,Ponchatoula,2023112217,1,0,1,0,1,1,1
+/,Maryland,,first_visit,new,Annapolis,2023092116,1,0,1,0,0,1,1
+/,Maryland,,first_visit,new,Cockeysville,2023090720,1,1,0,0,0,1,1
+/,Maryland,,first_visit,new,College Park,2023112312,1,0,1,0,0,1,1
+/pages/contact,Texas,90,scroll,new,Corpus Christi,2023091111,1,1,0,0,1,1,1
+/,Maryland,,page_view,new,Cockeysville,2023090720,1,1,0,0,0,1,1
+/,Maryland,,page_view,new,College Park,2023112312,1,0,1,0,0,1,1
+/,Maryland,,session_start,new,Annapolis,2023092116,1,0,1,0,0,1,1
+/,Maryland,,session_start,new,Cockeysville,2023090720,1,1,0,0,0,1,1
+/,Maryland,,session_start,new,College Park,2023112312,1,0,1,0,0,1,1
+/collections/all,Texas,,user_engagement,returning,San Antonio,2023091112,1,1,0,0,0,1,1
+/,Maryland,90,scroll,new,Annapolis,2023092116,1,0,1,0,1,1,1
+/,Maryland,90,scroll,new,College Park,2023112312,1,0,1,0,1,1,1
+/,Masovian Voivodeship,,first_visit,new,Warsaw,2023111111,1,1,0,0,0,1,1
+/,Masovian Voivodeship,,page_view,new,Warsaw,2023111111,1,1,0,0,0,1,1
+/,Masovian Voivodeship,,session_start,new,Warsaw,2023111111,1,1,0,0,0,1,1
+/,Massachusetts,,first_visit,new,Billerica,2023091811,1,1,0,0,0,1,1
+/,Massachusetts,,page_view,new,Billerica,2023091811,1,1,0,0,0,1,1
+/,Massachusetts,,session_start,new,Billerica,2023091811,1,1,0,0,0,1,1
+/,Michigan,,first_visit,new,St. Clair Shores,2023092021,1,0,1,0,0,1,1
+/,Michigan,,page_view,new,St. Clair Shores,2023092021,1,0,1,0,0,1,1
+/,Michigan,,session_start,new,St. Clair Shores,2023092021,1,0,1,0,0,1,1
+/,Michigan,90,scroll,new,St. Clair Shores,2023092021,1,0,1,0,1,1,1
+/,Minnesota,,first_visit,new,Maple Grove,2023091918,1,1,0,0,0,1,1
+/,Minnesota,,first_visit,new,Rochester,2023092415,1,0,1,0,0,1,1
+/,Minnesota,,first_visit,new,West Saint Paul,2023092005,1,0,1,0,0,1,1
+/,Minnesota,,page_view,new,Maple Grove,2023091918,1,1,0,0,0,1,1
+/,Minnesota,,page_view,new,Rochester,2023092415,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023091119,1,1,0,0,0,1,1
+/,Minnesota,,session_start,new,Maple Grove,2023091918,1,1,0,0,0,1,1
+/,Minnesota,,session_start,new,Rochester,2023092415,1,0,1,0,0,1,1
+/,Minnesota,,session_start,new,West Saint Paul,2023092005,1,0,1,0,0,1,1
+/,Minnesota,,user_engagement,new,West Saint Paul,2023092005,1,0,1,1,0,1,1
+/store/hat,Texas,,page_view,returning,San Antonio,2023091119,1,1,0,0,0,1,1
+/,Minnesota,90,scroll,new,West Saint Paul,2023092005,1,0,1,0,1,1,1
+/,Missouri,,first_visit,new,Wildwood,2023112310,1,0,1,0,0,1,1
+/,Missouri,,page_view,new,Wildwood,2023112310,1,0,1,0,0,1,1
+/,Missouri,,session_start,new,Wildwood,2023112310,1,0,1,0,0,1,1
+/,Missouri,90,scroll,new,Wildwood,2023112310,1,0,1,0,1,1,1
+/,Nebraska,,first_visit,new,Lincoln,2023091817,1,1,0,0,0,1,1
+/,Nebraska,,first_visit,new,Omaha,2023092305,1,1,0,0,0,1,1
+/store/hat,Texas,,view_item,returning,San Antonio,2023091119,1,1,0,0,0,1,1
+/,Nebraska,,page_view,new,Omaha,2023092305,1,1,0,0,0,1,1
+/,Nebraska,,session_start,new,Lincoln,2023091817,1,1,0,0,0,1,1
+/,Nebraska,,session_start,new,Omaha,2023092305,1,1,0,0,0,1,1
+/,Nebraska,,user_engagement,new,Falls City,2023092207,1,0,1,8,0,1,1
+/,New Jersey,,first_visit,new,Clifton,2023090508,1,1,0,0,0,1,1
+/,New Jersey,,first_visit,new,Oradell,2023091817,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023091714,1,0,1,0,0,1,2
+/,New Jersey,,page_view,new,Oradell,2023091817,1,0,1,0,0,1,1
+/,New Jersey,,session_start,new,Clifton,2023090508,1,1,0,0,0,1,1
+/,New Jersey,,session_start,new,Oradell,2023091817,1,0,1,0,0,1,1
+/,New Jersey,,user_engagement,new,Oradell,2023091817,1,0,1,1,0,1,1
+/,New Mexico,,first_visit,new,Albuquerque,2023091721,1,0,1,0,0,1,1
+/,New Mexico,,first_visit,new,Las Cruces,2023092018,1,0,1,0,0,1,1
+/pages/contact,Texas,90,scroll,returning,San Antonio,2023091714,1,0,1,0,1,1,2
+/,New Mexico,,page_view,new,Las Cruces,2023092018,1,0,1,0,0,1,1
+/,New Mexico,,session_start,new,Albuquerque,2023091721,1,0,1,0,0,1,1
+/,New Mexico,,session_start,new,Las Cruces,2023092018,1,0,1,0,0,1,1
+/,New Mexico,,user_engagement,new,Albuquerque,2023091721,1,0,1,1,0,1,1
+/,New Mexico,,user_engagement,new,Las Cruces,2023092018,1,0,1,2,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091716,1,0,1,22,0,1,1
+/,New Mexico,90,scroll,new,Las Cruces,2023092018,1,0,1,0,1,1,1
+/,New York,,first_visit,new,Deer Park,2023092416,1,0,1,0,0,1,1
+/,New York,,first_visit,new,New York,2023091417,1,1,0,0,0,1,1
+/,New York,,first_visit,new,New York,2023092111,1,1,0,0,0,1,1
+/,New York,,first_visit,new,New York,2023092120,1,1,0,0,0,1,1
+/,New York,,first_visit,new,New York,2023092315,1,1,0,0,0,1,1
+/,New York,,first_visit,new,New York,2023092418,1,0,1,0,0,1,1
+/,New York,,first_visit,new,New York,2023100812,1,1,0,0,0,1,1
+/,New York,,first_visit,new,New York,2023110513,1,1,0,0,0,1,1
+/,New York,,page_view,new,Deer Park,2023092416,1,0,1,0,0,1,1
+/,New York,,page_view,new,New York,2023091417,1,1,0,0,0,1,1
+/store/hat,Texas,,user_engagement,returning,San Antonio,2023091719,1,0,1,23,0,1,1
+/,New York,,page_view,new,New York,2023092120,1,1,0,0,0,1,1
+/,New York,,page_view,new,New York,2023092315,1,1,0,0,0,1,1
+/,New York,,page_view,new,New York,2023092418,1,0,1,0,0,1,1
+/,New Mexico,,page_view,new,Albuquerque,2023091721,1,0,1,0,0,1,1
+/,New York,,page_view,new,New York,2023110513,1,1,0,0,0,1,1
+/,New York,,session_start,new,Deer Park,2023092416,1,0,1,0,0,1,1
+/,New York,,session_start,new,New York,2023091417,1,1,0,0,0,1,1
+/,New York,,session_start,new,New York,2023092111,1,1,0,0,0,1,1
+/,New York,,session_start,new,New York,2023092120,1,1,0,0,0,1,1
+/,New York,,session_start,new,New York,2023092315,1,1,0,0,0,1,1
+/,New York,,session_start,new,New York,2023092418,1,0,1,0,0,1,1
+/,New York,,session_start,new,New York,2023100812,1,1,0,0,0,1,1
+/,New York,,session_start,new,New York,2023110513,1,1,0,0,0,1,1
+/,New York,,user_engagement,new,New York,2023092418,1,0,1,2,0,1,1
+/,New York,90,scroll,new,Deer Park,2023092416,1,0,1,0,1,1,1
+/,New York,90,scroll,new,New York,2023092315,1,1,0,0,1,1,1
+/,New Mexico,90,scroll,new,Albuquerque,2023091721,1,0,1,0,1,1,1
+/,Norrbotten County,,first_visit,new,Lulea,2023090319,1,1,0,0,0,3,3
+/,Norrbotten County,,page_view,new,Lulea,2023090319,1,1,0,0,0,3,3
+/,Norrbotten County,,session_start,new,Lulea,2023090319,1,1,0,0,0,3,3
+/,Norrbotten County,90,scroll,new,Lulea,2023090319,1,1,0,0,2,2,2
+/,North Carolina,,first_visit,new,(not set),2023092103,1,0,1,0,0,1,1
+/,North Carolina,,first_visit,new,Cary,2023091811,1,1,0,0,0,1,1
+/,North Carolina,,first_visit,new,Forest City,2023090318,1,1,0,0,0,1,1
+/,North Carolina,,first_visit,new,Forest City,2023090319,1,1,0,0,0,2,2
+/,North Carolina,,first_visit,new,Forest City,2023090717,1,1,0,0,0,1,1
+/,North Carolina,,first_visit,new,Forest City,2023090722,1,1,0,0,0,1,1
+/,North Carolina,,first_visit,new,Forest City,2023092221,1,1,0,0,0,1,1
+/,North Carolina,,first_visit,new,Forest City,2023092323,1,1,0,0,0,1,1
+/,Texas,,page_view,new,Houston,2023091721,1,0,1,0,0,1,1
+/,North Carolina,,page_view,new,Cary,2023091811,1,1,0,0,0,1,1
+/,North Carolina,,page_view,new,Forest City,2023090318,1,1,0,0,0,1,1
+/,North Carolina,,page_view,new,Forest City,2023090319,1,1,0,0,0,2,2
+/collections/all,New Mexico,,page_view,new,Albuquerque,2023091721,1,0,1,0,0,1,1
+/,North Carolina,,page_view,new,Forest City,2023090722,1,1,0,0,0,1,1
+/,North Carolina,,page_view,new,Forest City,2023092221,1,1,0,0,0,1,1
+/,North Carolina,,page_view,new,Forest City,2023092323,1,1,0,0,0,1,1
+/,North Carolina,,session_start,new,(not set),2023092103,1,0,1,0,0,1,1
+/,North Carolina,,session_start,new,Cary,2023091811,1,1,0,0,0,1,1
+/,North Carolina,,session_start,new,Forest City,2023090318,1,1,0,0,0,1,1
+/,North Carolina,,session_start,new,Forest City,2023090319,1,1,0,0,0,2,2
+/,North Carolina,,session_start,new,Forest City,2023090717,1,1,0,0,0,1,1
+/,North Carolina,,session_start,new,Forest City,2023090722,1,1,0,0,0,1,1
+/,North Carolina,,session_start,new,Forest City,2023092221,1,1,0,0,0,1,1
+/,North Carolina,,session_start,new,Forest City,2023092323,1,1,0,0,0,1,1
+/,North Carolina,90,scroll,new,(not set),2023092103,1,0,1,0,1,1,1
+/,North Carolina,90,scroll,new,Forest City,2023090318,1,1,0,0,1,1,1
+/collections/all,Texas,,page_view,new,San Antonio,2023091806,1,0,1,0,0,1,1
+/,North Carolina,90,scroll,new,Forest City,2023090717,1,1,0,0,1,1,1
+/,North Carolina,90,scroll,new,Forest City,2023090722,1,1,0,0,1,1,1
+/,Ohio,,first_visit,new,Cincinnati,2023091917,1,0,1,0,0,1,1
+/,Ohio,,first_visit,new,Cincinnati,2023112216,1,0,1,0,0,1,1
+/,Ohio,,first_visit,new,Columbus,2023090703,1,1,0,0,0,1,1
+/,Ohio,,first_visit,new,Columbus,2023091220,1,1,0,0,0,1,1
+/,Ohio,,first_visit,new,Columbus,2023091803,1,1,0,0,0,1,1
+/,Ohio,,first_visit,new,Columbus,2023091816,1,0,1,0,0,1,1
+/,Ohio,,first_visit,new,Columbus,2023092308,1,1,0,0,0,1,1
+/,Ohio,,first_visit,new,Columbus,2023100109,1,1,0,0,0,1,1
+/,Ohio,,first_visit,new,Riverside,2023092315,1,1,0,0,0,1,1
+/,Ohio,,page_view,new,Cincinnati,2023091917,1,0,1,0,0,1,1
+/collections/all,Texas,,user_engagement,new,San Antonio,2023091806,1,0,1,6,0,1,1
+/,Ohio,,page_view,new,Columbus,2023090703,1,1,0,0,0,1,1
+/,Ohio,,page_view,new,Columbus,2023091220,1,1,0,0,0,1,1
+/,Ohio,,page_view,new,Columbus,2023091803,1,1,0,0,0,1,1
+/,Ohio,,page_view,new,Columbus,2023091816,1,0,1,0,0,1,1
+/,Ohio,,page_view,new,Columbus,2023092308,1,1,0,0,0,1,1
+/,Ohio,,page_view,new,Columbus,2023100109,1,1,0,0,0,1,1
+/,Ohio,,page_view,new,Riverside,2023092315,1,1,0,0,0,1,1
+/,Ohio,,session_start,new,Cincinnati,2023091917,1,0,1,0,0,1,1
+/,Ohio,,session_start,new,Cincinnati,2023112216,1,0,1,0,0,1,1
+/,Ohio,,session_start,new,Columbus,2023090703,1,1,0,0,0,1,1
+/,Ohio,,session_start,new,Columbus,2023091220,1,1,0,0,0,1,1
+/,Ohio,,session_start,new,Columbus,2023091803,1,1,0,0,0,1,1
+/,Ohio,,session_start,new,Columbus,2023091816,1,0,1,0,0,1,1
+/,Ohio,,session_start,new,Columbus,2023092308,1,1,0,0,0,1,1
+/,Ohio,,session_start,new,Columbus,2023100109,1,1,0,0,0,1,1
+/,Ohio,,session_start,new,Riverside,2023092315,1,1,0,0,0,1,1
+/,Ohio,,user_engagement,new,Cincinnati,2023112216,1,0,1,4,0,1,1
+/,Ohio,,user_engagement,new,Columbus,2023091220,1,1,0,5,0,1,1
+/,Colorado,90,scroll,new,Castle Rock,2023091807,1,0,1,0,1,1,1
+/,Ohio,90,scroll,new,Cincinnati,2023112216,1,0,1,5,1,1,1
+/,Ohio,90,scroll,new,Columbus,2023091220,1,1,0,0,1,1,1
+/,Ohio,90,scroll,new,Columbus,2023091803,1,1,0,0,1,1,1
+/,Oklahoma,,first_visit,new,Broken Arrow,2023092204,1,0,1,0,0,1,1
+/,Oklahoma,,page_view,new,Broken Arrow,2023092204,1,0,1,0,0,1,1
+/,Oklahoma,,session_start,new,Broken Arrow,2023092204,1,0,1,0,0,1,1
+/collections/all,California,90,scroll,new,Santa Clara,2023091809,1,0,1,7,1,1,1
+/,Ontario,,first_visit,new,Toronto,2023092412,1,0,1,0,0,1,1
+/,Ontario,,page_view,new,Toronto,2023092412,1,0,1,0,0,1,1
+/,Ontario,,session_start,new,Toronto,2023092412,1,0,1,0,0,1,1
+/,Ontario,90,scroll,new,Toronto,2023092412,1,0,1,0,1,1,1
+/,Oregon,,first_visit,new,Boardman,2023100713,1,1,0,0,0,1,1
+/,Oregon,,first_visit,new,Boardman,2023101502,1,1,0,0,0,1,1
+/,Oregon,,first_visit,new,Boardman,2023101510,1,1,0,0,0,1,1
+/,Oregon,,first_visit,new,Boardman,2023110714,1,1,0,0,0,1,1
+/,Oregon,,first_visit,new,Boardman,2023112207,1,1,0,0,0,1,1
+/,Oregon,,first_visit,new,Prineville,2023092521,1,1,0,0,0,1,1
+/,Oregon,,page_view,new,Boardman,2023100713,1,1,0,0,0,1,1
+/,Oregon,,page_view,new,Boardman,2023101502,1,1,0,0,0,1,1
+/,Ohio,,user_engagement,new,Columbus,2023091816,1,0,1,1,0,1,1
+/,Oregon,,page_view,new,Boardman,2023110714,1,1,0,0,0,1,1
+/,Oregon,,page_view,new,Boardman,2023112207,1,1,0,0,0,1,1
+/,Pennsylvania,,user_engagement,new,Doylestown,2023091816,1,0,1,1,0,1,1
+/,Oregon,,session_start,new,Boardman,2023100713,1,1,0,0,0,1,1
+/,Oregon,,session_start,new,Boardman,2023101502,1,1,0,0,0,1,1
+/,Oregon,,session_start,new,Boardman,2023101510,1,1,0,0,0,1,1
+/,Oregon,,session_start,new,Boardman,2023110714,1,1,0,0,0,1,1
+/,Oregon,,session_start,new,Boardman,2023112207,1,1,0,0,0,1,1
+/,Oregon,,session_start,new,Prineville,2023092521,1,1,0,0,0,1,1
+/,Pennsylvania,,first_visit,new,Doylestown,2023091816,1,0,1,0,0,1,1
+/,Pennsylvania,,first_visit,new,Lewistown,2023092018,1,0,1,0,0,1,1
+/,Pennsylvania,,first_visit,new,McCandless,2023091817,1,0,1,0,0,1,1
+/,Pennsylvania,,first_visit,new,Pittsburgh,2023092318,1,0,1,0,0,1,1
+/,Pennsylvania,,first_visit,new,Upper Providence Township,2023092020,1,1,0,0,0,1,1
+/,Pennsylvania,,page_view,new,Doylestown,2023091816,1,0,1,0,0,1,1
+/,Pennsylvania,,page_view,new,Lewistown,2023092018,1,0,1,0,0,1,1
+/,Pennsylvania,,page_view,new,McCandless,2023091817,1,0,1,0,0,1,1
+/collections/all,Pennsylvania,,page_view,new,Doylestown,2023091816,1,0,1,0,0,1,1
+/,Pennsylvania,,page_view,new,Upper Providence Township,2023092020,1,1,0,0,0,1,1
+/,Pennsylvania,,session_start,new,Doylestown,2023091816,1,0,1,0,0,1,1
+/,Pennsylvania,,session_start,new,Lewistown,2023092018,1,0,1,0,0,1,1
+/,Pennsylvania,,session_start,new,McCandless,2023091817,1,0,1,0,0,1,1
+/,Pennsylvania,,session_start,new,Pittsburgh,2023092318,1,0,1,0,0,1,1
+/,Pennsylvania,,session_start,new,Upper Providence Township,2023092020,1,1,0,0,0,1,1
+/,Nebraska,,page_view,new,Lincoln,2023091817,1,1,0,0,0,1,1
+/,Pennsylvania,90,scroll,new,Lewistown,2023092018,1,0,1,0,1,1,1
+/,Pennsylvania,90,scroll,new,McCandless,2023091817,1,0,1,0,1,1,1
+/,Pennsylvania,90,scroll,new,Pittsburgh,2023092318,1,0,1,0,1,1,1
+/,Riyadh Province,,first_visit,new,Riyadh,2023090319,1,1,0,0,0,1,1
+/,Riyadh Province,,first_visit,new,Riyadh,2023090419,1,1,0,0,0,1,1
+/,Riyadh Province,,first_visit,new,Riyadh,2023090519,1,1,0,0,0,1,1
+/store/br-hat,Pennsylvania,,view_item,new,McCandless,2023091817,1,0,1,0,0,1,1
+/,Riyadh Province,,page_view,new,Riyadh,2023090419,1,1,0,0,0,1,1
+/,Riyadh Province,,page_view,new,Riyadh,2023090519,1,1,0,0,0,1,1
+/,Riyadh Province,,session_start,new,Riyadh,2023090319,1,1,0,0,0,1,1
+/,Riyadh Province,,session_start,new,Riyadh,2023090419,1,1,0,0,0,1,1
+/,Riyadh Province,,session_start,new,Riyadh,2023090519,1,1,0,0,0,1,1
+/,South Carolina,,first_visit,new,Columbia,2023092405,1,0,1,0,0,1,1
+/,Texas,,page_view,new,San Antonio,2023091916,1,0,1,0,0,1,1
+/,South Carolina,,session_start,new,Columbia,2023092405,1,0,1,0,0,1,1
+/,South Carolina,90,scroll,new,Columbia,2023092405,1,0,1,0,1,1,1
+/,Tamil Nadu,,first_visit,new,Chennai,2023110511,1,1,0,0,0,1,1
+/,Tamil Nadu,,page_view,new,Chennai,2023110511,1,1,0,0,0,1,1
+/,Tamil Nadu,,session_start,new,Chennai,2023110511,1,1,0,0,0,1,1
+/,Tennessee,,first_visit,new,Crab Orchard,2023092007,1,1,0,0,0,1,1
+/,Tennessee,,first_visit,new,Elizabethton,2023092004,1,0,1,0,0,1,1
+/,Tennessee,,first_visit,new,Loudon,2023092320,1,0,1,0,0,1,1
+/,Tennessee,,first_visit,new,Mascot,2023092414,1,1,0,0,0,1,1
+/,Texas,90,scroll,new,San Antonio,2023091916,1,0,1,41,1,1,1
+/,Tennessee,,page_view,new,Elizabethton,2023092004,1,0,1,0,0,1,1
+/,Tennessee,,page_view,new,Loudon,2023092320,1,0,1,0,0,1,1
+/,Tennessee,,page_view,new,Mascot,2023092414,1,1,0,0,0,1,1
+/,Tennessee,,session_start,new,Crab Orchard,2023092007,1,1,0,0,0,1,1
+/,Tennessee,,session_start,new,Elizabethton,2023092004,1,0,1,0,0,1,1
+/,Tennessee,,session_start,new,Loudon,2023092320,1,0,1,0,0,1,1
+/,Tennessee,,session_start,new,Mascot,2023092414,1,1,0,0,0,1,1
+/store,Ohio,90,scroll,new,Cincinnati,2023091917,1,0,1,14,1,1,1
+/,Tennessee,90,scroll,new,Crab Orchard,2023092007,1,1,0,0,1,1,1
+/,Tennessee,90,scroll,new,Elizabethton,2023092004,1,0,1,0,1,1,1
+/,Tennessee,90,scroll,new,Loudon,2023092320,1,0,1,0,1,1,1
+/store,Colorado,,page_view,new,Aurora,2023091920,1,0,1,0,0,1,1
+/,Texas,,click,new,San Antonio,2023090410,1,1,0,4,0,1,1
+/,Texas,,click,returning,San Antonio,2023090321,1,1,0,6,0,1,1
+/,Texas,,click,returning,San Antonio,2023092006,1,0,1,9,0,1,1
+/store/br-trump-stickers,Colorado,,page_view,new,Aurora,2023091920,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,Canton,2023100719,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,Corpus Christi,2023091111,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,Dallas,2023092919,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,Eastland,2023091108,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,Fort Worth,2023110822,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,Houston,2023091721,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,Houston,2023092005,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,McCamey,2023091108,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,Plano,2023092405,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023090313,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023090409,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023090410,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023091615,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023091806,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023091916,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023092416,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023092919,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023100817,1,0.5,0.5,0,0,2,2
+/,Texas,,first_visit,new,San Antonio,2023100919,1,0,1,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023110605,1,1,0,0,0,1,1
+/,Texas,,first_visit,new,San Antonio,2023111215,1,0,1,0,0,2,2
+/,Texas,,page_view,(not set),San Antonio,2023092006,1,1,0,0,0,1,1
+/,Texas,,page_view,(not set),San Antonio,2023092516,1,1,0,0,0,1,1
+/,Texas,,page_view,(not set),San Antonio,2023092612,1,1,0,0,0,1,1
+/,Georgia,90,scroll,new,Atlanta,2023092003,1,0,1,0,1,1,1
+/,Texas,,page_view,(not set),San Antonio,2023111318,1,1,0,0,0,2,2
+/,Texas,,page_view,(not set),San Antonio,2023111606,1,1,0,0,0,1,1
+/,Tennessee,,user_engagement,new,Elizabethton,2023092004,1,0,1,4,0,1,1
+/,Texas,,page_view,new,Corpus Christi,2023091111,1,1,0,0,0,1,1
+/,Texas,,page_view,new,Dallas,2023092919,1,0,1,0,0,1,1
+/,Virginia,,page_view,new,Warrenton,2023092004,1,1,0,0,0,1,1
+/,Texas,,page_view,new,Fort Worth,2023110822,1,1,0,0,0,1,1
+/store,Tennessee,,page_view,new,Elizabethton,2023092004,1,0,1,0,0,1,1
+/,Texas,,page_view,new,Houston,2023092005,1,1,0,0,0,1,1
+/,Texas,,page_view,new,McCamey,2023091108,1,1,0,0,0,1,1
+/,Texas,,page_view,new,Plano,2023092405,1,1,0,0,0,1,1
+/,Texas,,page_view,new,Robstown,2023092207,1,0,1,0,0,1,1
+/store/shirt,Tennessee,,page_view,new,Elizabethton,2023092004,1,0,1,0,0,1,1
+/,Texas,,page_view,new,San Antonio,2023090409,1,1,0,0,0,1,1
+/store/stickers,Tennessee,90,scroll,new,Elizabethton,2023092004,1,0,1,0,1,1,1
+/,Texas,,page_view,new,San Antonio,2023091615,1,0,1,0,0,1,1
+/,Texas,,page_view,new,San Antonio,2023091806,1,0,1,0,0,1,1
+/,Florida,,page_view,new,Ruskin,2023092005,1,0,1,0,0,1,1
+/,Texas,,page_view,new,San Antonio,2023092416,1,0,1,0,0,1,1
+/,Minnesota,,page_view,new,West Saint Paul,2023092005,1,0,1,0,0,1,1
+/,Texas,,page_view,new,San Antonio,2023100817,1,0.5,0.5,0,0,2,2
+/,Texas,,page_view,new,San Antonio,2023100919,1,0,1,0,0,1,1
+/store/hoodie,Minnesota,,page_view,new,West Saint Paul,2023092005,1,0,1,0,0,1,1
+/,Texas,,page_view,new,San Antonio,2023111215,1,0,1,0,0,2,2
+/,Texas,,page_view,returning,San Antonio,2023090316,1,1,0,0,0,1,1
+/store/hoodie,Minnesota,90,scroll,new,West Saint Paul,2023092005,1,0,1,10,1,1,1
+/,Texas,,page_view,returning,San Antonio,2023090321,1,1,0,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023090413,1,1,0,0,0,1,1
+/,Arkansas,90,scroll,new,Little Rock,2023092006,1,0,1,0,1,1,1
+/,Texas,,page_view,returning,San Antonio,2023090420,1,1,0,0,0,1,1
+/,Tennessee,,page_view,new,Crab Orchard,2023092007,1,1,0,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023091021,1,1,0,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023091108,1,1,0,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092010,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023091708,1,1,0,0,0,1,1
+/,California,90,scroll,new,Los Angeles,2023092012,1,0,1,0,1,1,1
+/,Texas,,page_view,returning,San Antonio,2023091719,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023091720,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092005,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092006,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092014,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092111,1,0,1,0,0,2,2
+/store,Texas,,page_view,returning,San Antonio,2023092014,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092121,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092220,1,0,1,0,0,1,1
+/store,New Mexico,,user_engagement,new,Las Cruces,2023092018,1,0,1,13,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092312,1,0,1,0,0,2,2
+/,Texas,,page_view,returning,San Antonio,2023092313,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,2,2
+/store,Pennsylvania,,page_view,new,Lewistown,2023092018,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092317,1,0,1,0,0,2,2
+/,Wisconsin,,page_view,new,Holmen,2023092020,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092412,1,0,1,0,0,1,1
+/store/hat,Wisconsin,,page_view,new,Brookfield,2023092020,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023111420,1,0,1,0,0,2,2
+/,Texas,,page_view,returning,San Antonio,2023111705,1,1,0,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023111720,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023111721,1,0,1,0,0,1,1
+/store/shirt,Wisconsin,,page_view,new,Holmen,2023092020,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023112118,1,0,1,0,0,1,1
+/,Tokyo,,user_engagement,new,Shibuya City,2023092022,1,0,1,2,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023112206,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023112211,1,0,1,0,0,1,1
+/,Texas,,session_start,(not set),San Antonio,2023092006,1,1,0,0,0,1,1
+/,Texas,,session_start,(not set),San Antonio,2023092516,1,1,0,0,0,1,1
+/,Texas,,session_start,(not set),San Antonio,2023092612,1,1,0,0,0,1,1
+/,Texas,,session_start,(not set),San Antonio,2023092811,1,1,0,0,0,1,1
+/,Texas,,session_start,(not set),San Antonio,2023111318,1,1,0,0,0,2,2
+/,Texas,,session_start,(not set),San Antonio,2023111606,1,1,0,0,0,1,1
+/,Texas,,session_start,new,Canton,2023100719,1,1,0,0,0,1,1
+/,Texas,,session_start,new,Corpus Christi,2023091111,1,0,1,0,0,1,1
+/,Texas,,session_start,new,Dallas,2023092919,1,0,1,0,0,1,1
+/,Texas,,session_start,new,Eastland,2023091108,1,0,1,0,0,1,1
+/,Texas,,session_start,new,Fort Worth,2023110822,1,1,0,0,0,1,1
+/,Texas,,session_start,new,Houston,2023091721,1,0,1,0,0,1,1
+/,Texas,,session_start,new,Houston,2023092005,1,1,0,0,0,1,1
+/,Texas,,session_start,new,McCamey,2023091108,1,0,1,0,0,1,1
+/,Texas,,session_start,new,Plano,2023092405,1,1,0,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023090313,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023090409,1,1,0,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023090410,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023091615,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023091806,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023091916,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023092416,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023092919,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023100817,1,0.5,0.5,0,0,2,2
+/,Texas,,session_start,new,San Antonio,2023100919,1,0,1,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023110605,1,1,0,0,0,1,1
+/,Texas,,session_start,new,San Antonio,2023111215,1,0,1,0,0,2,2
+/,Texas,,session_start,returning,San Antonio,2023090315,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090316,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090319,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090320,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090321,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090413,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090416,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090420,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023090618,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091021,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091108,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091708,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091711,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091714,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091716,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091719,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023091816,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092005,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092010,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092014,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092111,1,0,1,0,0,2,2
+/,Texas,,session_start,returning,San Antonio,2023092220,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092312,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092314,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092316,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092317,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092319,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092321,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023092412,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023111417,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023111420,1,0,1,0,0,2,2
+/,Texas,,session_start,returning,San Antonio,2023111705,1,1,0,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023111720,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023111721,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023112117,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023112119,1,0,1,0,0,1,1
+/,Texas,,session_start,returning,San Antonio,2023112211,1,0,1,0,0,1,1
+/,Texas,,user_engagement,new,Corpus Christi,2023091111,1,1,0,6,0,1,1
+/,Texas,,user_engagement,new,Dallas,2023092919,1,0,1,66,0,1,1
+/cart,Tokyo,90,scroll,new,Shibuya City,2023092022,1,0,1,0,1,1,1
+/,Texas,,user_engagement,new,Houston,2023091721,1,0,1,4,0,1,1
+/,Texas,,user_engagement,new,Raymondville,2023092919,1,0,1,3,0,1,1
+/,Texas,,user_engagement,new,Robstown,2023092207,1,0,1,12,0,1,1
+/,Texas,,user_engagement,new,San Antonio,2023091806,1,0,1,8,0,1,1
+/,Texas,,user_engagement,new,San Antonio,2023092919,1,0,1,1,0,1,1
+/,Texas,,user_engagement,new,San Antonio,2023100817,1,0,1,3,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023090315,1,1,0,0,0,1,1
+/store,California,,page_view,new,Carlsbad,2023092022,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023090321,1,1,0,32,0,1,1
+/store/br-unisex-columbia-fleece-jacket,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023090420,1,1,0,13,0,1,1
+/store/shirt,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091021,1,1,0,34,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091612,1,1,0,7,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091711,1,1,0,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091714,1,0,1,15,0,1,2
+/store/stickers,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091719,1,0,1,30,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091720,1,0,1,14,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023091816,1,1,0,10,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092006,1,0,1,9,0,1,1
+/store/stickers,Tokyo,90,scroll,new,Shibuya City,2023092022,1,0,1,0,1,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092014,1,0,1,4,0,1,1
+/,North Carolina,,page_view,new,(not set),2023092103,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092112,1,0,1,8,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092121,1,0,1,4,0,1,1
+/,New York,,page_view,new,New York,2023092111,1,1,0,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092312,1,0,1,16,0,2,2
+/,Texas,,user_engagement,returning,San Antonio,2023092313,1,0,1,295,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092314,1,0,1,6,0,2,2
+/,Texas,,user_engagement,returning,San Antonio,2023092316,1,0,1,3,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092111,1,0,1,11,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092319,1,1,0,0,0,1,1
+/store/br,Texas,90,scroll,returning,San Antonio,2023092111,1,0,1,0,1,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023111417,1,1,0,4,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023111720,1,0,1,3,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023112119,1,0,1,2,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023112206,1,0,1,108,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023112211,1,0,1,57,0,1,1
+/,Texas,90,scroll,new,Corpus Christi,2023091111,1,1,0,8,1,1,1
+/,Texas,90,scroll,new,Dallas,2023092919,1,0,1,7,1,1,1
+/,Texas,90,scroll,new,Eastland,2023091108,1,1,0,13,1,1,1
+/,Texas,,page_view,returning,San Antonio,2023092112,1,0,1,0,0,2,2
+/,Texas,90,scroll,new,Plano,2023092405,1,1,0,0,1,1,1
+/,Texas,90,scroll,new,Robstown,2023092207,1,0,1,16,1,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092112,1,0,1,0,0,1,1
+/,Texas,90,scroll,new,San Antonio,2023090410,1,1,0,23,1,1,1
+/,Texas,90,scroll,new,San Antonio,2023091806,1,0,1,0,1,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092112,1,0,1,4,0,1,1
+/,Texas,90,scroll,new,San Antonio,2023092919,1,0,1,10,1,1,1
+/,Texas,90,scroll,new,San Antonio,2023100919,1,0,1,0,1,1,1
+/store,California,90,scroll,new,Pittsburg,2023092115,1,0,1,10,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023090316,1,1,0,5,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023090320,1,1,0,0,1,1,1
+/store/hoodie,California,,page_view,new,Pittsburg,2023092115,1,0,1,0,0,1,1
+/,Texas,90,scroll,returning,San Antonio,2023090416,1,1,0,2,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023090420,1,1,0,15,1,1,1
+/,Maryland,,page_view,new,Annapolis,2023092116,1,0,1,0,0,1,1
+/,Texas,90,scroll,returning,San Antonio,2023091108,1,1,0,2,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023091708,1,1,0,0,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023091714,1,0,1,9,1,1,2
+/,Texas,90,scroll,returning,San Antonio,2023091719,1,0,1,9,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023091720,1,0,1,1,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023092006,1,0,1,11,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023092014,1,0,1,4,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023092111,1,0,1,0,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023092311,1,0,1,0,1,1,1
+/,Maryland,,user_engagement,new,Annapolis,2023092116,1,0,1,9,0,1,1
+/,Texas,90,scroll,returning,San Antonio,2023092313,1,0,1,36,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023092314,1,0,1,8,2,2,2
+/,Texas,90,scroll,returning,San Antonio,2023092317,1,0,1,0,1,1,1
+/store,Maryland,,page_view,new,Annapolis,2023092116,1,0,1,0,0,1,1
+/,Texas,90,scroll,returning,San Antonio,2023112118,1,0,1,0,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023112119,1,0,1,14,1,1,1
+/,Texas,90,scroll,returning,San Antonio,2023112206,1,0,1,0,1,1,1
+/,Texas,90,session_start,returning,San Antonio,2023112206,1,0,1,0,0,1,1
+/,Tokyo,,first_visit,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/,Tokyo,,session_start,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/,Georgia,,user_engagement,new,Atlanta,2023092117,1,0,1,2,0,1,1
+/,Virginia,,first_visit,new,Ashburn,2023112219,1,1,0,0,0,1,1
+/,Virginia,,first_visit,new,Danville,2023092123,1,0,1,0,0,1,1
+/,Virginia,,first_visit,new,Dulles,2023092220,1,0,1,0,0,1,1
+/,Virginia,,first_visit,new,Purcellville,2023091919,1,0,1,0,0,1,1
+/,Virginia,,first_visit,new,Warrenton,2023092004,1,1,0,0,0,1,1
+/,Virginia,,page_view,new,Ashburn,2023112219,1,1,0,0,0,1,1
+/,California,,page_view,new,Sanger,2023092119,1,1,0,0,0,1,1
+/,Virginia,,page_view,new,Dulles,2023092220,1,0,1,0,0,1,1
+/,Virginia,,page_view,new,Purcellville,2023091919,1,0,1,0,0,1,1
+/store/hoodie,Texas,,page_view,returning,San Antonio,2023092119,1,0,1,0,0,1,1
+/,Virginia,,session_start,new,Ashburn,2023112219,1,1,0,0,0,1,1
+/,Virginia,,session_start,new,Danville,2023092123,1,0,1,0,0,1,1
+/,Virginia,,session_start,new,Dulles,2023092220,1,0,1,0,0,1,1
+/,Virginia,,session_start,new,Purcellville,2023091919,1,0,1,0,0,1,1
+/,Virginia,,session_start,new,Warrenton,2023092004,1,1,0,0,0,1,1
+/,Virginia,90,scroll,new,Ashburn,2023112219,1,1,0,0,1,1,1
+/store/hat,Texas,,page_view,returning,San Antonio,2023092119,1,0,1,0,0,1,1
+/,Virginia,90,scroll,new,Purcellville,2023091919,1,0,1,0,1,1,1
+/,Washington,,first_visit,new,(not set),2023092204,1,0,1,0,0,1,1
+/,Washington,,first_visit,new,Seattle,2023092220,1,1,0,0,0,1,1
+/,Washington,,first_visit,new,Seattle,2023092223,1,1,0,0,0,1,1
+/,Washington,,first_visit,new,Seattle,2023092319,1,0,1,0,0,1,1
+/,Washington,,page_view,new,(not set),2023092204,1,0,1,0,0,1,1
+/store/shirt,Texas,,page_view,returning,San Antonio,2023092119,1,0,1,0,0,1,1
+/,Washington,,page_view,new,Seattle,2023092223,1,1,0,0,0,1,1
+/,Washington,,page_view,new,Seattle,2023092319,1,0,1,0,0,1,1
+/,Washington,,session_start,new,(not set),2023092204,1,0,1,0,0,1,1
+/,Washington,,session_start,new,Seattle,2023092220,1,1,0,0,0,1,1
+/,Washington,,session_start,new,Seattle,2023092223,1,1,0,0,0,1,1
+/,Washington,,session_start,new,Seattle,2023092319,1,0,1,0,0,1,1
+/shop,Missouri,,user_engagement,new,Bolivar,2023092121,1,0,1,8,0,1,1
+/,Washington,90,scroll,new,Seattle,2023092319,1,0,1,0,1,1,1
+/,Wisconsin,,first_visit,new,Brookfield,2023092020,1,0,1,0,0,1,1
+/,Wisconsin,,first_visit,new,Holmen,2023092020,1,0,1,0,0,1,1
+/,Wisconsin,,page_view,new,Brookfield,2023092020,1,0,1,0,0,1,1
+/shop,Oklahoma,,page_view,new,Perry,2023092121,1,0,1,0,0,1,1
+/,Wisconsin,,session_start,new,Brookfield,2023092020,1,0,1,0,0,1,1
+/,Wisconsin,,session_start,new,Holmen,2023092020,1,0,1,0,0,1,1
+/,Wisconsin,,user_engagement,new,Holmen,2023092020,1,0,1,2,0,1,1
+/,Wisconsin,90,scroll,new,Holmen,2023092020,1,0,1,0,1,1,1
+/about,New York,,page_view,new,New York,2023092418,1,0,1,0,0,1,1
+/shop,Texas,,page_view,returning,San Antonio,2023092121,1,0,1,0,0,2,2
+/about,New York,90,scroll,new,New York,2023092418,1,0,1,23,1,1,1
+/about,Ontario,,page_view,new,Toronto,2023092412,1,0,1,0,0,1,1
+/shop,Texas,,user_engagement,returning,San Antonio,2023092121,1,0,1,2,0,1,1
+/about,Texas,,page_view,new,San Antonio,2023092919,1,0,1,0,0,1,1
+/about,Texas,,page_view,returning,San Antonio,2023092313,1,0,1,0,0,1,1
+/about,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,1,1
+/store/nm-t-shirt,Missouri,90,scroll,new,Bolivar,2023092121,1,0,1,17,1,1,1
+/about,Texas,,user_engagement,returning,San Antonio,2023092313,1,0,1,15,0,1,1
+/store/stickers,Texas,,page_view,returning,San Antonio,2023092121,1,0,1,0,0,1,1
+/about,Texas,,user_engagement,returning,San Antonio,2023112211,1,0,1,8,0,1,1
+/about,Texas,90,scroll,new,San Antonio,2023092919,1,0,1,12,1,1,1
+/about,Texas,90,scroll,returning,San Antonio,2023092313,1,0,1,30,1,1,1
+/,Virginia,,page_view,new,Danville,2023092123,1,0,1,0,0,1,1
+/about,Texas,90,scroll,returning,San Antonio,2023112211,1,0,1,0,1,1,1
+/cart,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/cart,Tokyo,,user_engagement,new,Shibuya City,2023092022,1,0,1,3,0,1,1
+/,California,,page_view,new,San Francisco,2023092203,1,0,1,0,0,1,1
+/collections/all,Alabama,,page_view,new,Brewton,2023091108,1,1,0,0,0,1,1
+/collections/all,Alabama,,user_engagement,new,Brewton,2023091108,1,1,0,7,0,1,1
+/,California,,user_engagement,new,San Francisco,2023092203,1,0,1,8,0,1,1
+/collections/all,California,,page_view,new,Santa Clara,2023091809,1,0,1,0,0,1,1
+/,California,90,scroll,new,San Francisco,2023092203,1,0,1,0,1,1,1
+/collections/all,Iowa,,first_visit,new,Audubon,2023091113,1,1,0,0,0,1,1
+/collections/all,Iowa,,page_view,new,Audubon,2023091113,1,1,0,0,0,1,1
+/collections/all,Iowa,,session_start,new,Audubon,2023091113,1,0,1,0,0,1,1
+/collections/all,New Jersey,,page_view,new,Oradell,2023091817,1,0,1,0,0,1,1
+/store,California,90,scroll,new,San Francisco,2023092203,1,0,1,0,1,1,1
+/collections/all,Ohio,,page_view,new,Columbus,2023091816,1,0,1,0,0,1,1
+/,Oklahoma,,user_engagement,new,Broken Arrow,2023092204,1,0,1,2,0,1,1
+/collections/all,Pennsylvania,90,scroll,new,Doylestown,2023091816,1,0,1,5,1,1,1
+/collections/all,Telangana,,first_visit,new,Hyderabad,2023091008,1,1,0,0,0,1,1
+/,Washington,90,scroll,new,(not set),2023092204,1,0,1,0,1,1,1
+/collections/all,Telangana,,session_start,new,Hyderabad,2023091008,1,0,1,0,0,1,1
+/collections/all,Telangana,,user_engagement,new,Hyderabad,2023091008,1,1,0,12,0,1,1
+/collections/all,Texas,,first_visit,new,San Antonio,2023091013,1,1,0,0,0,1,1
+/,California,,page_view,new,Oxnard,2023092207,1,1,0,0,0,1,1
+/collections/all,Texas,,page_view,new,Eastland,2023091108,1,1,0,0,0,1,1
+/collections/all,Texas,,page_view,new,Houston,2023091721,1,0,1,0,0,1,1
+/collections/all,Texas,,page_view,new,San Antonio,2023091013,1,1,0,0,0,1,1
+/shop,Texas,90,scroll,new,Robstown,2023092207,1,0,1,3,1,1,1
+/collections/all,Texas,,page_view,returning,San Antonio,2023090420,1,1,0,0,0,1,1
+/store,California,,page_view,new,Los Angeles,2023092207,1,0,1,0,0,1,1
+/collections/all,Texas,,page_view,returning,San Antonio,2023090619,1,1,0,0,0,1,1
+/collections/all,Texas,,page_view,returning,San Antonio,2023091016,1,1,0,0,0,1,1
+/,California,,page_view,new,Tulare,2023092214,1,1,0,0,0,1,1
+/collections/all,Texas,,page_view,returning,San Antonio,2023091714,1,0,1,0,0,1,1
+/collections/all,Texas,,page_view,returning,San Antonio,2023092312,1,0,1,0,0,1,1
+/collections/all,Texas,,session_start,(not set),San Antonio,2023090503,1,1,0,0,0,1,1
+/collections/all,Texas,,session_start,(not set),San Antonio,2023090821,1,1,0,0,0,1,1
+/collections/all,Texas,,session_start,new,San Antonio,2023091013,1,1,0,0,0,1,1
+/collections/all,Texas,,session_start,returning,San Antonio,2023091015,1,1,0,0,0,1,1
+/collections/all,Texas,,session_start,returning,San Antonio,2023091016,1,1,0,0,0,1,1
+/collections/all,Texas,,session_start,returning,San Antonio,2023091112,1,1,0,0,0,1,1
+/collections/all,Texas,,session_start,returning,San Antonio,2023091714,1,0,1,0,0,1,1
+/collections/all,Texas,,session_start,returning,San Antonio,2023092312,1,0,1,0,0,1,1
+/collections/all,Texas,,user_engagement,(not set),San Antonio,2023090503,1,1,0,0,0,1,1
+/,California,90,scroll,new,Tulare,2023092214,1,1,0,0,1,1,1
+/collections/all,Texas,,user_engagement,new,Corpus Christi,2023091111,1,1,0,3,0,1,1
+/collections/all,Texas,,user_engagement,new,Eastland,2023091108,1,1,0,2,0,1,1
+/collections/all,Texas,,user_engagement,new,Eastland,2023091113,1,1,0,4,0,1,1
+/collections/all,Texas,,user_engagement,new,Houston,2023091722,1,0,1,2,0,1,1
+/,Kansas,90,scroll,new,Kansas City,2023092216,1,0,1,6,1,1,1
+/collections/all,Texas,,user_engagement,returning,San Antonio,2023090618,1,1,0,1,0,1,1
+/collections/all,Texas,,user_engagement,returning,San Antonio,2023091015,1,1,0,0,0,1,1
+/store,Florida,,page_view,new,Cutler Bay,2023092218,1,0,1,0,0,1,1
+/collections/all,Texas,,user_engagement,returning,San Antonio,2023091714,1,0,1,21,0,1,1
+/collections/all,Texas,,user_engagement,returning,San Antonio,2023092312,1,0,1,5,0,1,1
+/collections/all,Texas,90,scroll,new,Corpus Christi,2023091111,1,1,0,0,1,1,1
+/collections/all,Texas,90,scroll,new,Eastland,2023091108,1,1,0,3,1,1,1
+/collections/all,Texas,90,scroll,new,Houston,2023091721,1,0,1,4,1,1,1
+/collections/all,Texas,90,scroll,returning,San Antonio,2023090420,1,1,0,0,1,1,1
+/collections/all,Texas,90,scroll,returning,San Antonio,2023090618,1,1,0,0,1,1,1
+/collections/all,Texas,90,scroll,returning,San Antonio,2023091714,1,0,1,9,1,1,1
+/store,Florida,90,scroll,new,Cutler Bay,2023092218,1,0,1,7,1,1,1
+/contact-us,Delhi,,page_view,new,Delhi,2023100603,1,0,1,0,0,1,1
+/contact-us,Delhi,,user_engagement,new,Delhi,2023100603,1,0,1,7,0,1,1
+/contact-us,Delhi,90,scroll,new,Delhi,2023100603,1,0,1,3,1,1,1
+/,Virginia,90,scroll,new,Dulles,2023092220,1,0,1,0,1,1,1
+/contact-us,Texas,,page_view,returning,San Antonio,2023092313,1,0,1,0,0,1,1
+/,Washington,,page_view,new,Seattle,2023092220,1,1,0,0,0,1,1
+/contact-us,Texas,,page_view,returning,San Antonio,2023112211,1,0,1,0,0,1,1
+/contact-us,Texas,,user_engagement,new,San Antonio,2023092919,1,0,1,5,0,1,1
+/,Illinois,90,scroll,new,Chicago,2023092303,1,0,1,0,1,1,1
+/contact-us,Texas,,user_engagement,returning,San Antonio,2023092314,1,0,1,197,0,1,1
+/contact-us,Texas,,user_engagement,returning,San Antonio,2023112211,1,0,1,5,0,1,1
+/store,Illinois,90,scroll,new,Chicago,2023092303,1,0,1,18,1,1,1
+/contact-us,Texas,90,scroll,returning,San Antonio,2023092313,1,0,1,0,1,1,1
+/contact-us,Texas,90,scroll,returning,San Antonio,2023092314,1,0,1,0,1,1,1
+/,(not set),,page_view,new,(not set),2023092309,1,1,0,0,0,5,5
+/pages/contact,Delhi,,user_engagement,(not set),Delhi,2023090718,1,1,0,8,0,1,1
+/pages/contact,Texas,,page_view,new,Corpus Christi,2023091111,1,1,0,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092311,1,0,1,0,0,1,1
+/pages/contact,Texas,,page_view,new,Eastland,2023091113,1,1,0,0,0,1,1
+/pages/contact,Texas,,page_view,returning,San Antonio,2023091714,1,0,1,0,0,1,2
+/,Texas,,user_engagement,returning,San Antonio,2023092311,1,0,1,1,0,1,1
+/pages/contact,Texas,,user_engagement,new,Eastland,2023091108,1,1,0,2,0,1,1
+/pages/contact,Texas,,user_engagement,returning,San Antonio,2023091714,1,0,1,9,0,1,2
+/store,Texas,,page_view,returning,San Antonio,2023092311,1,0,1,0,0,1,1
+/pages/contact,Texas,90,scroll,new,Eastland,2023091108,1,1,0,9,1,1,1
+/pages/contact,Texas,90,scroll,new,Eastland,2023091113,1,1,0,2,1,1,1
+/store/hoodies,Texas,,page_view,returning,San Antonio,2023092311,1,0,1,0,0,1,1
+/store/br-hat,Pennsylvania,,page_view,new,McCandless,2023091817,1,0,1,0,0,1,1
+/store/stickers,Texas,90,scroll,returning,San Antonio,2023092311,1,0,1,0,1,1,1
+/store/hat,Texas,,page_view,new,San Antonio,2023091615,1,0,1,0,0,1,1
+/store/hat,Texas,,page_view,returning,San Antonio,2023091021,1,1,0,0,0,1,1
+/,Texas,90,scroll,returning,San Antonio,2023092312,1,0,1,2,1,1,1
+/store/hat,Texas,,session_start,returning,San Antonio,2023091100,1,1,0,0,0,1,1
+/store/hat,Texas,,session_start,returning,San Antonio,2023091119,1,0,1,0,0,1,1
+/store/hat,Texas,,session_start,returning,San Antonio,2023091612,1,1,0,0,0,1,1
+/store/hat,Texas,,user_engagement,returning,San Antonio,2023091100,1,1,0,0,0,1,1
+/store/hat,Texas,,user_engagement,returning,San Antonio,2023091612,1,1,0,0,0,1,1
+/collections/all,Texas,90,scroll,returning,San Antonio,2023092312,1,0,1,0,1,1,1
+/store/hat,Texas,,view_item,new,San Antonio,2023091615,1,0,1,0,0,1,1
+/store/hat,Texas,,view_item,returning,San Antonio,2023091021,1,1,0,0,0,1,1
+/shop,Texas,,user_engagement,returning,San Antonio,2023092312,1,0,1,3,0,1,1
+/store/hat,Texas,90,scroll,new,San Antonio,2023091615,1,0,1,0,1,1,1
+/store/hat,Texas,90,scroll,returning,San Antonio,2023091021,1,1,0,5,1,1,1
+/store/hat,Texas,90,scroll,returning,San Antonio,2023091119,1,1,0,9,1,1,1
+/shop,Texas,90,scroll,returning,San Antonio,2023092312,1,0,1,0,1,1,1
+/store/stickers,Texas,,session_start,returning,San Antonio,2023090619,1,1,0,0,0,1,1
+/store/stickers,Texas,,user_engagement,returning,San Antonio,2023090619,1,1,0,0,0,1,1
+/store/stickers,Texas,,view_item,returning,San Antonio,2023090618,1,1,0,0,0,1,1
+/contact-us,Texas,,user_engagement,returning,San Antonio,2023092313,1,0,1,14,0,1,1
+/store/t-shirt,Texas,,page_view,new,San Antonio,2023091806,1,0,1,0,0,1,1
+/store/t-shirt,Texas,,view_item,new,San Antonio,2023091806,1,0,1,0,0,1,1
+/store/tshirt,Texas,,page_view,returning,San Antonio,2023090413,1,1,0,0,0,1,1
+/store/tshirt,Texas,,page_view,returning,San Antonio,2023090420,1,1,0,0,0,1,1
+/store/tshirt,Texas,,session_start,returning,San Antonio,2023090415,1,1,0,0,0,1,1
+/store/tshirt,Texas,,user_engagement,returning,San Antonio,2023090415,1,1,0,0,0,1,1
+/about,Texas,,user_engagement,returning,San Antonio,2023092314,1,0,1,2,0,1,1
+/store/tshirt,Texas,,view_item,returning,San Antonio,2023090413,1,1,0,0,0,1,1
+/about,Texas,90,scroll,returning,San Antonio,2023092314,1,0,1,0,1,1,1
+/store/tshirt,Texas,90,scroll,returning,San Antonio,2023090413,1,1,0,0,1,1,1
+/contact-us,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,1,1
+/settings/connected-accounts,Texas,,page_view,returning,San Antonio,2023112119,1,0,1,0,0,1,1
+/settings/connected-accounts,Texas,,session_start,returning,San Antonio,2023112119,1,0,1,0,0,1,1
+/settings/connected-accounts,Texas,90,scroll,returning,San Antonio,2023112119,1,0,1,0,1,1,1
+/shop,Missouri,,page_view,new,Bolivar,2023092121,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,2,2
+/shop,Missouri,90,scroll,new,Bolivar,2023092121,1,0,1,2,1,1,1
+/shop,Oklahoma,,first_visit,new,Perry,2023092121,1,0,1,0,0,1,1
+/store/hats,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,1,1
+/shop,Oklahoma,,session_start,new,Perry,2023092121,1,0,1,0,0,1,1
+/shop,Oklahoma,90,scroll,new,Perry,2023092121,1,0,1,9,1,1,1
+/shop,Texas,,first_visit,new,Robstown,2023092207,1,0,1,0,0,1,1
+/shop,Texas,,page_view,new,Robstown,2023092207,1,0,1,0,0,1,1
+/store/hats,Texas,90,scroll,returning,San Antonio,2023092314,1,0,1,1,1,1,1
+/shop,Texas,,page_view,returning,San Antonio,2023092220,1,0,1,0,0,1,1
+/shop,Texas,,page_view,returning,San Antonio,2023092312,1,0,1,0,0,1,1
+/store/hoodies,Texas,,user_engagement,returning,San Antonio,2023092314,1,0,1,2,0,1,1
+/shop,Texas,,page_view,returning,San Antonio,2023092321,1,0,1,0,0,1,1
+/shop,Texas,,session_start,new,Robstown,2023092207,1,0,1,0,0,1,1
+/shop,Texas,,session_start,returning,San Antonio,2023092121,1,0,1,0,0,1,1
+/shop,Texas,,session_start,returning,San Antonio,2023092220,1,0,1,0,0,1,1
+/shop,Texas,,session_start,returning,San Antonio,2023092317,1,0,1,0,0,1,1
+/shop,Texas,,user_engagement,new,Robstown,2023092207,1,0,1,14,0,1,1
+/store/t-shirts,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,1,1
+/shop,Texas,,user_engagement,returning,San Antonio,2023092220,1,0,1,12,0,1,1
+/store,California,,user_engagement,new,Anaheim,2023092315,1,0,1,4,0,1,1
+/shop,Texas,,user_engagement,returning,San Antonio,2023092321,1,0,1,10,0,1,1
+/store/hats,California,,page_view,new,Anaheim,2023092315,1,0,1,0,0,1,1
+/shop,Texas,90,scroll,returning,San Antonio,2023092121,1,0,1,5,2,2,2
+/shop,Texas,90,scroll,returning,San Antonio,2023092220,1,0,1,5,1,1,1
+/store/t-shirts,California,,user_engagement,new,Anaheim,2023092315,1,0,1,7,0,1,1
+/shop,Texas,90,scroll,returning,San Antonio,2023092317,1,0,1,0,1,1,1
+/,Texas,,page_view,returning,San Antonio,2023092316,1,0,1,0,0,1,1
+/store/nm-t-shirt,Missouri,,page_view,new,Bolivar,2023092121,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092317,1,0,1,0,0,1,1
+/store/nm-t-shirt,Texas,,session_start,(not set),Industry,2023092200,1,1,0,0,0,1,1
+/store/nm-t-shirt,Texas,,user_engagement,(not set),Industry,2023092200,1,1,0,0,0,1,1
+/store,California,,first_visit,new,Sacramento,2023112211,1,0,1,0,0,1,1
+/store,California,,page_view,new,Anaheim,2023092315,1,0,1,0,0,1,1
+/shop,Texas,,page_view,returning,San Antonio,2023092317,1,0,1,0,0,1,1
+/store,California,,page_view,new,Compton,2023112220,1,0,1,0,0,1,1
+/,Pennsylvania,,page_view,new,Pittsburgh,2023092318,1,0,1,0,0,1,1
+/store,California,,page_view,new,Los Angeles,2023092415,1,0,1,0,0,1,1
+/store,California,,page_view,new,Los Angeles,2023112318,1,0,1,0,0,1,1
+/store,California,,page_view,new,Pico Rivera,2023092413,1,0,1,0,0,1,1
+/store,California,,page_view,new,Pittsburg,2023092115,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023092321,1,0,1,0,0,1,1
+/store,California,,page_view,new,San Francisco,2023092203,1,0,1,0,0,1,1
+/store,California,,page_view,new,San Francisco,2023092308,1,0,1,0,0,1,1
+/store,California,,session_start,new,Sacramento,2023112211,1,0,1,0,0,1,1
+/,Texas,,user_engagement,returning,San Antonio,2023092321,1,0,1,5,0,1,1
+/store,California,,user_engagement,new,Compton,2023112220,1,0,1,3,0,1,1
+/store,California,,user_engagement,new,Los Angeles,2023092415,1,0,1,3,0,1,1
+/shop,Texas,90,scroll,returning,San Antonio,2023092321,1,0,1,0,1,1,1
+/store,California,,user_engagement,new,Pittsburg,2023092115,1,0,1,3,0,1,1
+/store,California,,user_engagement,new,San Francisco,2023092203,1,0,1,12,0,1,1
+/store,California,,user_engagement,new,San Francisco,2023092308,1,0,1,4,0,1,1
+/store,California,90,scroll,new,Anaheim,2023092315,1,0,1,25,1,1,1
+/store,California,90,scroll,new,Carlsbad,2023092022,1,0,1,20,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092321,1,0,1,12,1,1,1
+/store,California,90,scroll,new,Los Angeles,2023092207,1,0,1,7,1,1,1
+/store,California,90,scroll,new,Los Angeles,2023092415,1,0,1,8,1,1,1
+/,Hawaii,,page_view,new,Honolulu,2023092323,1,0,1,0,0,1,1
+/store,California,90,scroll,new,Pico Rivera,2023092413,1,0,1,14,1,1,1
+/store,Hawaii,90,scroll,new,Honolulu,2023092323,1,0,1,10,1,1,1
+/store,California,90,scroll,new,Sacramento,2023112211,1,0,1,25,1,1,1
+/store/t-shirts,Hawaii,,user_engagement,new,Honolulu,2023092323,1,0,1,8,0,1,1
+/store,California,90,scroll,new,San Francisco,2023092308,1,0,1,20,1,1,1
+/,California,,page_view,new,Anaheim,2023092402,1,1,0,0,0,1,1
+/store,Colorado,,user_engagement,new,Aurora,2023091920,1,0,1,20,0,1,1
+/store,Colorado,90,scroll,new,Aurora,2023091920,1,0,1,6,1,1,1
+/,South Carolina,,page_view,new,Columbia,2023092405,1,0,1,0,0,1,1
+/store,Florida,,page_view,new,Ruskin,2023092005,1,0,1,0,0,1,1
+/store,Florida,,page_view,new,St. Cloud,2023092415,1,0,1,0,0,1,1
+/store,Texas,,page_view,(not set),San Antonio,2023092408,1,1,0,0,0,1,1
+/store,Florida,90,scroll,new,Ruskin,2023092005,1,0,1,10,1,1,1
+/store,Georgia,,page_view,new,Atlanta,2023092117,1,0,1,0,0,1,1
+/about,Ontario,90,scroll,new,Toronto,2023092412,1,0,1,33,1,1,1
+/store,Georgia,,user_engagement,new,Atlanta,2023092117,1,0,1,14,0,1,1
+/store,Georgia,90,scroll,new,Atlanta,2023092117,1,0,1,0,1,1,1
+/store,Ontario,,page_view,new,Toronto,2023092412,1,0,1,0,0,1,1
+/store,Hawaii,,page_view,new,Honolulu,2023092323,1,0,1,0,0,1,1
+/store,Hawaii,,user_engagement,new,Honolulu,2023092323,1,0,1,13,0,1,1
+/store,California,,user_engagement,new,Pico Rivera,2023092413,1,0,1,2,0,1,1
+/store,Illinois,,page_view,new,Chicago,2023092303,1,0,1,0,0,1,1
+/store,Illinois,,page_view,new,Sparta,2023092919,1,0,1,0,0,1,1
+/store,Illinois,,user_engagement,new,Chicago,2023092303,1,0,1,11,0,1,1
+/store,Illinois,,user_engagement,new,Sparta,2023092919,1,0,1,3,0,1,1
+/,Tennessee,90,scroll,new,Mascot,2023092414,1,1,0,0,1,1,1
+/store,Illinois,90,scroll,new,Sparta,2023092919,1,0,1,34,1,1,1
+/,California,,page_view,new,Los Angeles,2023092415,1,0,1,0,0,1,1
+/store,Indiana,,user_engagement,new,Noblesville,2023092417,1,0,1,10,0,1,1
+/,Florida,90,scroll,new,St. Cloud,2023092415,1,0,1,0,1,1,1
+/store,Louisiana,,page_view,new,Ponchatoula,2023112217,1,0,1,0,0,1,1
+/,Minnesota,90,scroll,new,Rochester,2023092415,1,0,1,0,1,1,1
+/store,Maryland,,user_engagement,new,Annapolis,2023092116,1,0,1,9,0,1,1
+/store,Maryland,90,scroll,new,Annapolis,2023092116,1,0,1,23,1,1,1
+/store,Minnesota,,page_view,new,Rochester,2023092415,1,0,1,0,0,1,1
+/store,Minnesota,,page_view,new,West Saint Paul,2023092005,1,0,1,0,0,1,1
+/store,Minnesota,,user_engagement,new,Rochester,2023092415,1,0,1,5,0,1,1
+/store,Minnesota,,user_engagement,new,West Saint Paul,2023092005,1,0,1,10,0,1,1
+/store,Minnesota,90,scroll,new,Rochester,2023092415,1,0,1,16,1,1,1
+/store,Minnesota,90,scroll,new,West Saint Paul,2023092005,1,0,1,15,1,1,1
+/store,Missouri,,first_visit,new,Wildwood,2023112310,1,0,1,0,0,1,1
+/store/t-shirt,Texas,,page_view,new,San Antonio,2023092416,1,0,1,0,0,1,1
+/store,Missouri,,session_start,new,Wildwood,2023112310,1,0,1,0,0,1,1
+/store,Missouri,,user_engagement,new,Wildwood,2023112310,1,0,1,16,0,1,1
+/store,New Mexico,,first_visit,new,Las Cruces,2023092018,1,1,0,0,0,1,1
+/store,New Mexico,,page_view,new,Las Cruces,2023092018,1,0.5,0.5,0,0,2,2
+/store,New Mexico,,session_start,new,Las Cruces,2023092018,1,1,0,0,0,1,1
+/,Indiana,,page_view,new,Noblesville,2023092417,1,0,1,0,0,1,1
+/store,New Mexico,90,scroll,new,Las Cruces,2023092018,1,0,1,13,1,1,1
+/store,New York,,page_view,new,New York,2023092418,1,0,1,0,0,1,1
+/store,Indiana,,page_view,new,Noblesville,2023092417,1,0,1,0,0,1,1
+/store,Ohio,,page_view,new,Cincinnati,2023091917,1,0,1,0,0,1,1
+/store,Ohio,,page_view,new,Cincinnati,2023112216,1,0,1,0,0,1,1
+/store,Indiana,90,scroll,new,Noblesville,2023092417,1,0,1,12,1,1,1
+/store,Oklahoma,,page_view,new,Broken Arrow,2023092204,1,0,1,0,0,1,1
+/store,Oklahoma,90,scroll,new,Broken Arrow,2023092204,1,0,1,18,1,1,1
+/,New York,90,scroll,new,New York,2023092418,1,0,1,0,1,1,1
+/store,Ontario,,user_engagement,new,Toronto,2023092412,1,0,1,9,0,1,1
+/store,Ontario,90,scroll,new,Toronto,2023092412,1,0,1,19,1,1,1
+/about,New York,,user_engagement,new,New York,2023092418,1,0,1,3,0,1,1
+/store,Pennsylvania,90,scroll,new,Lewistown,2023092018,1,0,1,17,1,1,1
+/store,New York,90,scroll,new,New York,2023092418,1,0,1,24,1,1,1
+/store,Tennessee,,page_view,new,Loudon,2023092320,1,0,1,0,0,1,1
+/store,Tennessee,,page_view,new,Selmer,2023092919,1,0,1,0,0,1,1
+/store,Tennessee,,user_engagement,new,Elizabethton,2023092004,1,0,1,54,0,1,1
+/store,Tennessee,,user_engagement,new,Loudon,2023092320,1,0,1,5,0,1,1
+/store,Tennessee,,user_engagement,new,Selmer,2023092920,1,0,1,32,0,1,1
+/store,Tennessee,90,scroll,new,Elizabethton,2023092004,1,0,1,8,1,1,1
+/store,Tennessee,90,scroll,new,Loudon,2023092320,1,0,1,9,1,1,1
+/store,Tennessee,90,scroll,new,Selmer,2023092919,1,0,1,19,1,1,1
+/store,Texas,,click,returning,San Antonio,2023092314,1,0,1,2,0,1,1
+/store,Texas,,first_visit,new,San Antonio,2023092413,1,1,0,0,0,1,1
+/store,Texas,,page_view,(not set),San Antonio,2023092106,1,1,0,0,0,1,1
+/,Oregon,,page_view,new,Prineville,2023092521,1,1,0,0,0,1,1
+/store,Texas,,page_view,new,Dallas,2023092919,1,0,1,0,0,1,1
+/store,Texas,,page_view,new,Robstown,2023092207,1,0,1,0,0,1,1
+/store,Texas,,page_view,new,San Antonio,2023092413,1,1,0,0,0,1,1
+/store,Texas,,page_view,new,San Antonio,2023092416,1,0,1,0,0,1,1
+/store,Texas,,page_view,new,San Antonio,2023092919,1,0,1,0,0,1,1
+/,Texas,,page_view,(not set),San Antonio,2023092811,1,1,0,0,0,1,1
+/,Illinois,,page_view,new,Sparta,2023092919,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092010,1,0,1,0,0,1,1
+/,Texas,,page_view,new,San Antonio,2023092919,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092020,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092111,1,0,1,0,0,1,1
+/contact-us,Texas,,page_view,new,San Antonio,2023092919,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092119,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092121,1,0,1,0,0,2,2
+/contact-us,Texas,90,scroll,new,San Antonio,2023092919,1,0,1,2,1,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092313,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,Dallas,2023092921,1,1,0,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092321,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023092413,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023111720,1,0,1,0,0,1,1
+/,(not set),,page_view,new,(not set),2023100317,1,1,0,0,0,2,2
+/,(not set),90,scroll,new,(not set),2023100317,1,1,0,0,1,1,1
+/store,Texas,,page_view,returning,San Antonio,2023112207,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023112209,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023112211,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023112214,1,0,1,0,0,2,2
+/,Delhi,,page_view,new,Delhi,2023100603,1,0,1,0,0,1,1
+/store,Texas,,session_start,(not set),San Antonio,2023092106,1,1,0,0,0,1,1
+/store,Texas,,session_start,(not set),San Antonio,2023092408,1,1,0,0,0,1,1
+/store,Texas,,session_start,new,San Antonio,2023092413,1,1,0,0,0,1,1
+/store,Texas,,session_start,returning,Dallas,2023092921,1,1,0,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023092020,1,0,1,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023092113,1,0,1,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023092121,1,0,1,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023092311,1,0,1,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023092316,1,1,0,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023112209,1,0,1,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023112213,1,0,1,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023112214,1,0,1,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023112215,1,1,0,0,0,1,1
+/store,Texas,,session_start,returning,San Antonio,2023112509,1,0,1,0,0,1,1
+/store,Texas,,user_engagement,new,Robstown,2023092207,1,0,1,13,0,1,1
+/store,Texas,,user_engagement,new,San Antonio,2023092919,1,0,1,7,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092014,1,0,1,11,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092111,1,0,1,2,0,1,1
+/,Texas,,page_view,new,Canton,2023100719,1,1,0,0,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092113,1,0,1,0,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092119,1,0,1,2,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092121,1,0,1,94,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092314,1,0,1,9,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023092321,1,0,1,17,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023111720,1,0,1,2,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023112119,1,0,1,15,0,1,1
+/,New York,,page_view,new,New York,2023100812,1,1,0,0,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023112211,1,0,1,30,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023112213,1,0,1,0,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023112214,1,0,1,41,0,2,2
+/store,Texas,,user_engagement,returning,San Antonio,2023112215,1,1,0,0,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023112509,1,0,1,19,0,1,1
+/store,Texas,90,scroll,new,Dallas,2023092919,1,0,1,19,1,1,1
+/store,Texas,90,scroll,new,Robstown,2023092207,1,0,1,10,1,1,1
+/store,Texas,90,scroll,new,San Antonio,2023092416,1,0,1,0,1,1,1
+/store,Texas,90,scroll,new,San Antonio,2023092919,1,0,1,40,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092010,1,0,1,10,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092014,1,0,1,2,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092020,1,0,1,6,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092112,1,0,1,3,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092121,1,0,1,13,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092311,1,0,1,0,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092313,1,0,1,0,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092314,1,0,1,0,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023092316,1,1,0,0,1,1,1
+/store,Texas,,page_view,new,San Antonio,2023100818,1,0,1,0,0,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023112119,1,0,1,20,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023112206,1,0,1,0,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023112207,1,0,1,0,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023112209,1,0,1,0,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023112211,1,0,1,57,1,1,1
+/,Oregon,,page_view,new,Boardman,2023101510,1,1,0,0,0,1,1
+/store,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/store,Tokyo,,user_engagement,new,Shibuya City,2023092022,1,0,1,6,0,1,1
+/store,Virginia,,page_view,new,Danville,2023092123,1,0,1,0,0,1,1
+/store,Virginia,,page_view,new,Purcellville,2023091919,1,0,1,0,0,1,1
+/store,Virginia,90,scroll,new,Danville,2023092123,1,0,1,10,1,1,1
+/store,Virginia,90,scroll,new,Purcellville,2023091919,1,0,1,15,1,1,1
+/store,Washington,,page_view,new,Seattle,2023092319,1,0,1,0,0,1,1
+/store,Washington,90,scroll,new,Seattle,2023092319,1,0,1,13,1,1,1
+/store,Wisconsin,,page_view,new,Brookfield,2023092020,1,0,1,0,0,1,1
+/store,Wisconsin,,user_engagement,new,Brookfield,2023092020,1,0,1,5,0,1,1
+/store,Wisconsin,90,scroll,new,Brookfield,2023092020,1,0,1,11,1,1,1
+/store/br,Texas,,page_view,returning,San Antonio,2023092111,1,0,1,0,0,1,1
+/store/br,Texas,,user_engagement,returning,San Antonio,2023092111,1,0,1,3,0,1,1
+/,(not set),,page_view,new,(not set),2023102207,1,1,0,0,0,1,1
+/store/br,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/store/br,Tokyo,,user_engagement,new,Shibuya City,2023092022,1,0,1,2,0,1,1
+/store/br,Tokyo,90,scroll,new,Shibuya City,2023092022,1,0,1,1,1,1,1
+/,(not set),,page_view,new,(not set),2023110523,1,0,1,0,0,1,1
+/store/hats,California,90,scroll,new,Anaheim,2023092315,1,0,1,2,1,1,1
+/,Texas,,page_view,new,San Antonio,2023110605,1,1,0,0,0,1,1
+/store/hats,Texas,,page_view,returning,San Antonio,2023112206,1,0,1,0,0,1,1
+/store/hats,Texas,,user_engagement,returning,San Antonio,2023092314,1,0,1,2,0,1,1
+/,Texas,90,scroll,new,San Antonio,2023111215,1,0,1,3,1,1,1
+/store/hoodies,Tennessee,,page_view,new,Loudon,2023092320,1,0,1,0,0,1,1
+/store/hoodies,Tennessee,90,scroll,new,Loudon,2023092320,1,0,1,1,1,1,1
+/,Texas,,page_view,returning,San Antonio,2023111417,1,1,0,0,0,1,1
+/store/hoodies,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,1,1
+/,Texas,90,scroll,returning,San Antonio,2023111420,1,0,1,6,1,1,1
+/store/jackets,Texas,,page_view,returning,San Antonio,2023092314,1,0,1,0,0,1,1
+/store/jackets,Texas,,user_engagement,returning,San Antonio,2023092314,1,0,1,6,0,1,1
+/store/patches,Texas,,page_view,returning,San Antonio,2023111720,1,0,1,0,0,1,1
+/store/patches,Texas,,user_engagement,returning,San Antonio,2023111720,1,0,1,3,0,1,1
+/store/patches,Texas,,page_view,returning,San Antonio,2023111720,1,0,1,0,0,1,1
+/store/hoodie,California,,user_engagement,new,Pittsburg,2023092115,1,0,1,28,0,1,1
+/store/hoodie,California,90,scroll,new,Pittsburg,2023092115,1,0,1,0,1,1,1
+/store/hoodie,Illinois,,page_view,new,Chicago,2023092303,1,0,1,0,0,1,1
+/store/hoodie,Illinois,,user_engagement,new,Chicago,2023092303,1,0,1,18,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023112117,1,0,1,0,0,1,1
+/store/hoodie,Minnesota,,user_engagement,new,West Saint Paul,2023092005,1,0,1,1,0,1,1
+/,Texas,,click,returning,San Antonio,2023112119,1,0,1,4,0,1,1
+/store/hoodie,Texas,,page_view,returning,San Antonio,2023092112,1,0,1,0,0,1,1
+/,Texas,,page_view,returning,San Antonio,2023112119,1,0,1,0,0,2,2
+/store/hoodie,Texas,,session_start,returning,San Antonio,2023092119,1,0,1,0,0,1,1
+/store/hoodie,Texas,,user_engagement,returning,San Antonio,2023092114,1,0,1,3,0,1,1
+/store/hoodie,Texas,,user_engagement,returning,San Antonio,2023092119,1,0,1,2,0,1,1
+/store/hoodie,Texas,90,scroll,returning,San Antonio,2023092112,1,0,1,3,1,1,1
+/store/hat,Texas,,page_view,returning,San Antonio,2023092112,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023112119,1,0,1,0,0,1,1
+/store/hat,Texas,,user_engagement,returning,San Antonio,2023092119,1,0,1,1,0,1,1
+/store/hat,Tokyo,,page_view,new,Shibuya City,2023092022,1,0,1,0,0,1,1
+/store,Texas,,page_view,returning,San Antonio,2023112206,1,0,1,0,0,1,1
+/store/hat,Wisconsin,,user_engagement,new,Brookfield,2023092020,1,0,1,3,0,1,1
+/store/patches,Texas,90,scroll,returning,San Antonio,2023112206,1,0,1,0,1,1,1
+/store/br-trump-stickers,Texas,,page_view,returning,San Antonio,2023112214,1,0,1,0,0,1,1
+/store/br-unisex-columbia-fleece-jacket,Texas,,page_view,returning,San Antonio,2023092121,1,0,1,0,0,1,1
+/store/stickers,Texas,,page_view,returning,San Antonio,2023112206,1,0,1,0,0,1,1
+/store/br-unisex-columbia-fleece-jacket,Tokyo,,user_engagement,new,Shibuya City,2023092022,1,0,1,4,0,1,1
+/store/br-t-hat,Texas,,page_view,returning,San Antonio,2023112215,1,0,1,0,0,1,1
+/store/hoodie,Texas,,page_view,returning,San Antonio,2023112214,1,0,1,0,0,1,1
+/store,Texas,,user_engagement,returning,San Antonio,2023112207,1,0,1,1,0,1,1
+/store/hoodie,Texas,,session_start,returning,San Antonio,2023112215,1,0,1,0,0,1,1
+/store/hoodie,Texas,,user_engagement,returning,San Antonio,2023112215,1,0,1,0,0,1,1
+/store/hoodie,Texas,90,scroll,returning,San Antonio,2023112214,1,0,1,0,1,1,1
+/about,Texas,,page_view,returning,San Antonio,2023112211,1,0,1,0,0,1,1
+/store/t-shirt,Texas,,page_view,returning,San Antonio,2023092321,1,0,1,0,0,1,1
+/store/t-shirt,Texas,,page_view,returning,San Antonio,2023092418,1,1,0,0,0,1,1
+/store/t-shirt,Texas,,page_view,returning,San Antonio,2023092419,1,1,0,0,0,1,1
+/store/t-shirt,Texas,,session_start,returning,San Antonio,2023092418,1,1,0,0,0,1,1
+/store/t-shirt,Texas,,session_start,returning,San Antonio,2023092419,1,1,0,0,0,1,1
+/store/t-shirt,Texas,,user_engagement,returning,San Antonio,2023092321,1,0,1,21,0,1,1
+/store/t-shirt,Texas,,user_engagement,returning,San Antonio,2023092418,1,1,0,0,0,1,1
+/store/t-shirt,Texas,90,scroll,returning,San Antonio,2023092321,1,0,1,25,1,1,1
+/contact-us,Texas,90,scroll,returning,San Antonio,2023112211,1,0,1,0,1,1,1
+/store/shirt,Tennessee,,user_engagement,new,Elizabethton,2023092004,1,0,1,3,0,1,1
+/store/shirt,Texas,,page_view,returning,San Antonio,2023092111,1,0,1,0,0,1,1
+/store,California,,page_view,new,Sacramento,2023112211,1,0,1,0,0,1,1
+/store/shirt,Texas,,user_engagement,returning,San Antonio,2023092114,1,0,1,7,0,1,1
+/store/shirt,Texas,,user_engagement,returning,San Antonio,2023092119,1,0,1,5,0,1,1
+/store/shirt,Texas,90,scroll,returning,San Antonio,2023092111,1,0,1,4,1,1,1
+/store/shirt,Texas,90,scroll,returning,San Antonio,2023092119,1,0,1,20,1,1,1
+/store,Texas,90,scroll,returning,San Antonio,2023112214,1,0,1,0,2,2,2
+/store/shirt,Tokyo,,user_engagement,new,Shibuya City,2023092022,1,0,1,3,0,1,1
+/store/hoodie,Texas,,page_view,returning,San Antonio,2023112215,1,0,1,0,0,1,1
+/store/shirt,Wisconsin,90,scroll,new,Holmen,2023092020,1,0,1,5,1,1,1
+/store/patches,Texas,,page_view,returning,San Antonio,2023092413,1,0,1,0,0,1,1
+/,Ohio,,page_view,new,Cincinnati,2023112216,1,0,1,0,0,1,1
+/store/patches,Texas,,page_view,returning,San Antonio,2023112206,1,0,1,0,0,1,1
+/store/patches,Texas,,user_engagement,returning,San Antonio,2023111720,1,0,1,8,0,1,1
+/store,California,90,scroll,new,Compton,2023112220,1,0,1,20,1,1,1
+/store/stickers,Tennessee,,page_view,new,Elizabethton,2023092004,1,0,1,0,0,1,1
+/,(not set),,page_view,new,(not set),2023112221,1,0,1,0,0,1,1
+/store/stickers,Texas,,page_view,returning,San Antonio,2023092111,1,0,1,0,0,1,1
+/store,Missouri,,page_view,new,Wildwood,2023112310,1,0,1,0,0,1,1
+/store/stickers,Texas,,page_view,returning,San Antonio,2023092311,1,0,1,0,0,1,1
+/,California,90,scroll,new,Los Angeles,2023112318,1,0,1,0,1,1,1
+/store/stickers,Texas,,user_engagement,returning,San Antonio,2023092111,1,0,1,2,0,1,1
+/store/stickers,Texas,90,scroll,returning,San Antonio,2023092111,1,0,1,0,1,1,1
+/store/stickers,Texas,90,scroll,returning,San Antonio,2023092121,1,0,1,0,1,1,1
+/store,California,90,scroll,new,Los Angeles,2023112318,1,0,1,25,1,1,1
+/store/stickers,Texas,90,scroll,returning,San Antonio,2023112206,1,0,1,0,1,1,1
+/,Georgia,,user_engagement,new,LaGrange,2023112323,1,0,1,3,0,1,1
+/store/stickers,Tokyo,,user_engagement,new,Shibuya City,2023092022,1,0,1,2,0,1,1
+/,Georgia,90,scroll,new,LaGrange,2023112323,1,0,1,5,1,1,1
+/store/t-shirts,California,,page_view,new,Anaheim,2023092315,1,0,1,0,0,1,1
+/store,Georgia,,page_view,new,LaGrange,2023112323,1,0,1,0,0,1,1
+/store/t-shirts,California,90,scroll,new,Anaheim,2023092315,1,0,1,4,1,1,1
+/store/t-shirts,Hawaii,,page_view,new,Honolulu,2023092323,1,0,1,0,0,1,1
+/store,Georgia,90,scroll,new,LaGrange,2023112323,1,0,1,33,1,1,1
+/store/t-shirts,Hawaii,90,scroll,new,Honolulu,2023092323,1,0,1,0,1,1,1
+/store,Texas,,page_view,returning,San Antonio,2023112509,1,0,1,0,0,1,1
+/store/t-shirts,Texas,,page_view,returning,San Antonio,2023112206,1,0,1,0,0,1,1
+/store/t-shirts,Texas,90,scroll,returning,San Antonio,2023092314,1,0,1,4,1,1,1
